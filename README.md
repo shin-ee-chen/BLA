@@ -7,7 +7,7 @@ BLA: a benchmark for Basic Language Abilities is proposed to explore the linguis
 
 
 <!-- Dataset -->
-## About
+## About the Dataset
 Please find the data in the "data" folder. The dataset is in json format and contains the following relevant fields:
 "image_id": the image id of the caption group
 "True1": caption 1 that correctly describes the image
