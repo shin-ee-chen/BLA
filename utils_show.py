@@ -108,6 +108,23 @@ def read_csv_file(file_path):
 
     return result
 
+
+def demo_by_img_id(target_img_id, caption_list):
+    for i, img in enumerate(caption_list):
+        img_id = img['image_id']
+        
+        if img_id == target_img_id:
+            show_image(img_id)
+            print(img_id)
+            caption = img['caption_group'][0]
+            print(caption['True1'])
+            print(caption['True2'])
+            print(caption['False1'])
+            print(caption['False2'])
+            return i
+    
+    return -1
+
 if __name__ == "__main__":
     img_id = 2403500
     base_dir = "/Users/xinyichen/Desktop/Thesis/Dataset_Construction/"
