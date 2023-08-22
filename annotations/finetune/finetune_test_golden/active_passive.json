@@ -1,0 +1,576 @@
+[
+  {
+    "image_id": "2348700",
+    "caption_group": [
+      {
+        "group_index": 1,
+        "True1": "the man teaches the girl",
+        "True2": "the girl is taught by the man",
+        "False1": "the girl teaches the man",
+        "False2": "the man is taught by the girl",
+        "predicate": "teaches"
+      }
+    ],
+    "index": 621
+  },
+  {
+    "image_id": "2412093",
+    "caption_group": [
+      {
+        "group_index": 0,
+        "True1": "the viewers watch the skater",
+        "True2": "the skater is watched by the viewers",
+        "False1": "the skater watches the viewers",
+        "False2": "the viewers are watched by the skater",
+        "predicate": "watches"
+      }
+    ],
+    "index": 808
+  },
+  {
+    "image_id": "1592886",
+    "caption_group": [
+      {
+        "group_index": 0,
+        "True1": "the spectator watches the skier",
+        "True2": "the skier is watched by the spectator",
+        "False1": "the skier watches the spectator",
+        "False2": "the spectator is watched by the skier",
+        "predicate": "watches"
+      }
+    ],
+    "index": 18
+  },
+  {
+    "image_id": "2321101",
+    "caption_group": [
+      {
+        "group_index": 0,
+        "True1": "the coach follows the soccer player",
+        "True2": "the soccer player is followed by the coach",
+        "False1": "the soccer player follows the coach",
+        "False2": "the coach is followed by the soccer player",
+        "predicate": "follows"
+      }
+    ],
+    "index": 750
+  },
+  {
+    "image_id": "2360365",
+    "caption_group": [
+      {
+        "group_index": 1,
+        "True1": "the man holds onto the boy",
+        "True2": "the boy is held onto by the man",
+        "False1": "the boy holds onto the man",
+        "False2": "the man is held onto by the boy",
+        "predicate": "holds onto"
+      }
+    ],
+    "index": 516
+  },
+  {
+    "image_id": "2371236",
+    "caption_group": [
+      {
+        "group_index": 0,
+        "True1": "the policeman watches the passengers",
+        "True2": "the passengers are watched by the policeman",
+        "False1": "the passengers watch the policeman",
+        "False2": "the policeman is watched by the passengers",
+        "predicate": "watches"
+      }
+    ],
+    "index": 425
+  },
+  {
+    "image_id": "1592875",
+    "caption_group": [
+      {
+        "group_index": 0,
+        "True1": "the spectator watches the skate boarder",
+        "True2": "the skate boarder is watched by the spectator",
+        "False1": "the skate boarder watches the spectator",
+        "False2": "the spectator is watched by the skate boarder",
+        "predicate": "watches"
+      }
+    ],
+    "index": 17
+  },
+  {
+    "image_id": "2350419",
+    "caption_group": [
+      {
+        "group_index": 0,
+        "True1": "the boy helps the lady",
+        "True2": "the lady is helped by the boy",
+        "False1": "the lady helps the boy",
+        "False2": "the boy is helped by the lady",
+        "predicate": "helps"
+      }
+    ],
+    "index": 603
+  },
+  {
+    "image_id": "2397857",
+    "caption_group": [
+      {
+        "group_index": 0,
+        "True1": "the spectator watches the tennis player",
+        "True2": "the tennis player is watched by the spectator",
+        "False1": "the tennis player watches the spectator",
+        "False2": "the spectator is watched by the tennis player",
+        "predicate": "watches"
+      }
+    ],
+    "index": 192
+  },
+  {
+    "image_id": "2340631",
+    "caption_group": [
+      {
+        "group_index": 0,
+        "True1": "the man holds the boy",
+        "True2": "the boy is held by the man",
+        "False1": "the boy holds the man",
+        "False2": "the man is held by the boy",
+        "predicate": "holds"
+      }
+    ],
+    "index": 678
+  },
+  {
+    "image_id": "2416742",
+    "caption_group": [
+      {
+        "group_index": 0,
+        "True1": "the pedestrians look at the woman",
+        "True2": "the woman is looked at by the pedestrians",
+        "False1": "the woman looks at the pedestrians",
+        "False2": "the pedestrians are looked at by the woman",
+        "predicate": "looks at"
+      }
+    ],
+    "index": 822
+  },
+  {
+    "image_id": "2372512",
+    "caption_group": [
+      {
+        "group_index": 0,
+        "True1": "the man speaks to the children",
+        "True2": "the children are spoken to by the man",
+        "False1": "the children speak to the man",
+        "False2": "the man is spoken to by the children",
+        "predicate": "speaks to"
+      }
+    ],
+    "index": 412
+  },
+  {
+    "image_id": "2388141",
+    "caption_group": [
+      {
+        "group_index": 0,
+        "True1": "the man holds the boy",
+        "True2": "the boy is held by the man",
+        "False1": "the boy holds the man",
+        "False2": "the man is held by the boy",
+        "predicate": "holds"
+      }
+    ],
+    "index": 271
+  },
+  {
+    "image_id": "2352651",
+    "caption_group": [
+      {
+        "group_index": 0,
+        "True1": "the man holds the boy",
+        "True2": "the boy is held by the man",
+        "False1": "the boy holds the man",
+        "False2": "the man is held by the boy",
+        "predicate": "holds"
+      }
+    ],
+    "index": 588
+  },
+  {
+    "image_id": "2358745",
+    "caption_group": [
+      {
+        "group_index": 0,
+        "True1": "the little boy teaches the girl",
+        "True2": "the girl is taught by the little boy",
+        "False1": "the girl teaches the little boy",
+        "False2": "the little boy is taught by the girl",
+        "predicate": "teaches"
+      }
+    ],
+    "index": 528
+  },
+  {
+    "image_id": "2349785",
+    "caption_group": [
+      {
+        "group_index": 0,
+        "True1": "the man watches the surfer",
+        "True2": "the surfer is watched by the man",
+        "False1": "the surfer watches the man",
+        "False2": "the man is watched by the surfer",
+        "predicate": "watches"
+      }
+    ],
+    "index": 611
+  },
+  {
+    "image_id": "2411145",
+    "caption_group": [
+      {
+        "group_index": 1,
+        "True1": "the groom helps the bride",
+        "True2": "the bride is helped by the groom",
+        "False1": "the bride helps the groom",
+        "False2": "the groom is helped by the bride",
+        "predicate": "helps"
+      }
+    ],
+    "index": 33
+  },
+  {
+    "image_id": "2328169",
+    "caption_group": [
+      {
+        "group_index": 0,
+        "True1": "the woman watches the man",
+        "True2": "the man is watched by the woman",
+        "False1": "the man watches the woman",
+        "False2": "the woman is watched by the man",
+        "predicate": "watches"
+      }
+    ],
+    "index": 727
+  },
+  {
+    "image_id": "2387436",
+    "caption_group": [
+      {
+        "group_index": 0,
+        "True1": "the mother protects the child",
+        "True2": "the child is protected by the mother",
+        "False1": "the child protects the mother",
+        "False2": "the mother is protected by the child",
+        "predicate": "protects"
+      }
+    ],
+    "index": 277
+  },
+  {
+    "image_id": "2344506",
+    "caption_group": [
+      {
+        "group_index": 0,
+        "True1": "the boy watches the skater",
+        "True2": "the skater is watched by the boy",
+        "False1": "the skater watches the boy",
+        "False2": "the boy is watched by the skater",
+        "predicate": "watches"
+      }
+    ],
+    "index": 647
+  },
+  {
+    "image_id": "2412013",
+    "caption_group": [
+      {
+        "group_index": 0,
+        "True1": "the man watches the boy",
+        "True2": "the boy is watched by the man",
+        "False1": "the boy watches the man",
+        "False2": "the man is watched by the boy",
+        "predicate": "watches"
+      }
+    ],
+    "index": 809
+  },
+  {
+    "image_id": "2399918",
+    "caption_group": [
+      {
+        "group_index": 0,
+        "True1": "the spectators look at the kids",
+        "True2": "the kids are looked at by the spectators",
+        "False1": "the kids look at the spectators",
+        "False2": "the spectators are looked at by the kids",
+        "predicate": "looks at"
+      }
+    ],
+    "index": 170
+  },
+  {
+    "image_id": "2369927",
+    "caption_group": [
+      {
+        "group_index": 0,
+        "True1": "the woman touches the man",
+        "True2": "the man is touched by the woman",
+        "False1": "the man touches the woman",
+        "False2": "the woman is touched by the man",
+        "predicate": "touches"
+      }
+    ],
+    "index": 430
+  },
+  {
+    "image_id": "2358640",
+    "caption_group": [
+      {
+        "group_index": 2,
+        "True1": "the man carries the woman",
+        "True2": "the woman is carried by the man",
+        "False1": "the woman carries the man",
+        "False2": "the man is carried by the woman",
+        "predicate": "carries"
+      }
+    ],
+    "index": 531
+  },
+  {
+    "image_id": "2410074",
+    "caption_group": [
+      {
+        "group_index": 0,
+        "True1": "the man watches the skateboarding man",
+        "True2": "the skateboarding man is watched by the man",
+        "False1": "the skateboarding man watches the man",
+        "False2": "the man is watched by the skateboarding man",
+        "predicate": "watches"
+      }
+    ],
+    "index": 42
+  },
+  {
+    "image_id": "2353193",
+    "caption_group": [
+      {
+        "group_index": 0,
+        "True1": "the woman watches the man",
+        "True2": "the man is watched by the woman",
+        "False1": "the man watches the woman",
+        "False2": "the woman is watched by the man",
+        "predicate": "watches"
+      }
+    ],
+    "index": 583
+  },
+  {
+    "image_id": "2353622",
+    "caption_group": [
+      {
+        "group_index": 0,
+        "True1": "the spectators watch the skateboarder",
+        "True2": "the skateboarder is watched by the spectators",
+        "False1": "the skateboarder watches the spectators",
+        "False2": "the spectators are watched by the skateboarder",
+        "predicate": "watches"
+      }
+    ],
+    "index": 576
+  },
+  {
+    "image_id": "2355772",
+    "caption_group": [
+      {
+        "group_index": 0,
+        "True1": "the man watches the child",
+        "True2": "the child is watched by the man",
+        "False1": "the child watches the man",
+        "False2": "the man is watched by the child",
+        "predicate": "watches"
+      }
+    ],
+    "index": 554
+  },
+  {
+    "image_id": "2400476",
+    "caption_group": [
+      {
+        "group_index": 0,
+        "True1": "the mother feeds the baby",
+        "True2": "the baby is fed by the mother",
+        "False1": "the baby feeds the mother",
+        "False2": "the mother is fed by the baby",
+        "predicate": "feeds"
+      }
+    ],
+    "index": 166
+  },
+  {
+    "image_id": "2374803",
+    "caption_group": [
+      {
+        "group_index": 0,
+        "True1": "the umpire touches the catcher",
+        "True2": "the catcher is touched by the umpire",
+        "False1": "the catcher touches the umpire",
+        "False2": "the umpire is touched by the catcher",
+        "predicate": "touches"
+      }
+    ],
+    "index": 382
+  },
+  {
+    "image_id": "2410115",
+    "caption_group": [
+      {
+        "group_index": 0,
+        "True1": "the spectators watch the skateboarder",
+        "True2": "the skateboarder is watched by the spectators",
+        "False1": "the skateboarder watches the spectators",
+        "False2": "the spectators are watched by the skateboarder",
+        "predicate": "watches"
+      }
+    ],
+    "index": 41
+  },
+  {
+    "image_id": "2365139",
+    "caption_group": [
+      {
+        "group_index": 0,
+        "True1": "the little girl watches the man",
+        "True2": "the man is watched by the little girl",
+        "False1": "the man watches the little girl",
+        "False2": "the little girl is watched by the man",
+        "predicate": "watches"
+      }
+    ],
+    "index": 474
+  },
+  {
+    "image_id": "2367909",
+    "caption_group": [
+      {
+        "group_index": 0,
+        "True1": "the little boy watches the woman",
+        "True2": "the woman is watched by the little boy",
+        "False1": "the woman watches the little boy",
+        "False2": "the little boy is watched by the woman",
+        "predicate": "watches"
+      }
+    ],
+    "index": 449
+  },
+  {
+    "image_id": "2405301",
+    "caption_group": [
+      {
+        "group_index": 0,
+        "True1": "the man holds the boy",
+        "True2": "the boy is held by the man",
+        "False1": "the boy holds the man",
+        "False2": "the man is held by the boy",
+        "predicate": "holds"
+      }
+    ],
+    "index": 111
+  },
+  {
+    "image_id": "2382664",
+    "caption_group": [
+      {
+        "group_index": 2,
+        "True1": "the man teaches the girl",
+        "True2": "the girl is taught by the man",
+        "False1": "the girl teaches the man",
+        "False2": "the man is taught by the girl",
+        "predicate": "teaches"
+      }
+    ],
+    "index": 325
+  },
+  {
+    "image_id": "2409105",
+    "caption_group": [
+      {
+        "group_index": 0,
+        "True1": "the spectators watch the skier",
+        "True2": "the skier is watched by the spectators",
+        "False1": "the skier watches the spectators",
+        "False2": "the spectators are watched by the skier",
+        "predicate": "watches"
+      }
+    ],
+    "index": 59
+  },
+  {
+    "image_id": "2396488",
+    "caption_group": [
+      {
+        "group_index": 0,
+        "True1": "the man watches the skater",
+        "True2": "the skater is watched by the man",
+        "False1": "the skater watches the man",
+        "False2": "the man is watched by the skater",
+        "predicate": "watches"
+      }
+    ],
+    "index": 202
+  },
+  {
+    "image_id": "2355023",
+    "caption_group": [
+      {
+        "group_index": 0,
+        "True1": "the woman drags the kid",
+        "True2": "the kid is dragged by the woman",
+        "False1": "the kid drags the woman",
+        "False2": "the woman is dragged by the kid",
+        "predicate": "drags"
+      }
+    ],
+    "index": 561
+  },
+  {
+    "image_id": "2363718",
+    "caption_group": [
+      {
+        "group_index": 0,
+        "True1": "the woman smiles at the man",
+        "True2": "the man is smiled at by the woman",
+        "False1": "the man smiles at the woman",
+        "False2": "the woman is smiled at by the man",
+        "predicate": "smiles at"
+      }
+    ],
+    "index": 489
+  },
+  {
+    "image_id": "2370901",
+    "caption_group": [
+      {
+        "group_index": 0,
+        "True1": "the woman helps the student",
+        "True2": "the student is helped by the woman",
+        "False1": "the student helps the woman",
+        "False2": "the woman is helped by the student",
+        "predicate": "helps"
+      }
+    ],
+    "index": 426
+  },
+  {
+    "image_id": "2402269",
+    "caption_group": [
+      {
+        "group_index": 2,
+        "True1": "the man helps the child",
+        "True2": "the child is helped by the man",
+        "False1": "the child helps the man",
+        "False2": "the man is helped by the child",
+        "predicate": "helps"
+      }
+    ],
+    "index": 150
+  }
+]

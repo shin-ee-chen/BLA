@@ -1,0 +1,477 @@
+[
+  {
+    "image_id": 2396706,
+    "index": 238,
+    "caption_group": [
+      {
+        "group_index": 928,
+        "True1": "the person who wears a yellow and black helmet wears a blue and white shirt",
+        "True2": "the person who wears a white hat wears a striped summer dress",
+        "False1": "the person who wears a yellow and black helmet wears a striped summer dress",
+        "False2": "the person who wears a white hat wears a blue and white shirt",
+        "score": [
+          0.8589029145242528,
+          0.9015449512499357,
+          0.8743376298706071,
+          0.8884941047076191
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2363300,
+    "index": 545,
+    "caption_group": [
+      {
+        "group_index": 1923,
+        "True1": "the person who holds a brown purse wears an orange sweater",
+        "True2": "the person who leans against a wall wears a black jacket",
+        "False1": "the person who holds a brown purse wears a black jacket",
+        "False2": "the person who leans against a wall wears an orange sweater",
+        "score": [
+          0.8881117999557031,
+          0.8700866699542583,
+          0.8813009262903644,
+          0.878441214561914
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2316399,
+    "index": 786,
+    "caption_group": [
+      {
+        "group_index": 2703,
+        "True1": "the person who holds a bundt has glasses",
+        "True2": "the person who wears a party hat wears a kerchief",
+        "False1": "the person who holds a bundt wears a kerchief",
+        "False2": "the person who wears a party hat has glasses",
+        "score": [
+          0.7265639752157613,
+          0.8521581945368455,
+          0.8059481325955238,
+          0.7941949367523193
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 107924,
+    "index": 11,
+    "caption_group": [
+      {
+        "group_index": 23,
+        "True1": "the person who stands on a grey and white surfboard wears a colorful bikini",
+        "True2": "the person who has foot on a blue surfboard wears shorts",
+        "False1": "the person who stands on a grey and white surfboard wears shorts",
+        "False2": "the person who has foot on a blue surfboard wears a colorful bikini",
+        "score": [
+          0.8021817824556782,
+          0.7555674215280632,
+          0.7696583413383076,
+          0.7717659448296729
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2378056,
+    "index": 447,
+    "caption_group": [
+      {
+        "group_index": 1648,
+        "True1": "the woman who has a pony tail wears a black skirt",
+        "True2": "the woman who has a pink blouse wears an apron",
+        "False1": "the woman who has a pony tail wears an apron",
+        "False2": "the woman who has a pink blouse wears a black skirt",
+        "score": [
+          0.8425122234545306,
+          0.8379089832363044,
+          0.8576582984382676,
+          0.8419199919390035
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2414787,
+    "index": 30,
+    "caption_group": [
+      {
+        "group_index": 80,
+        "True1": "the person who wears a grey top wears plaid pants",
+        "True2": "the person who wears a ball cap has black jeans",
+        "False1": "the person who wears a grey top has black jeans",
+        "False2": "the person who wears a ball cap wears plaid pants",
+        "score": [
+          0.8691743612289429,
+          0.7589574754238129,
+          0.7269293069839494,
+          0.8868763744831085
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2390265,
+    "index": 309,
+    "caption_group": [
+      {
+        "group_index": 1177,
+        "True1": "the person who wears a red shirt wears a leather belt",
+        "True2": "the person who holds a tablet wears blue jeans",
+        "False1": "the person who wears a red shirt wears blue jeans",
+        "False2": "the person who holds a tablet wears a leather belt",
+        "score": [
+          0.8580384850511698,
+          0.8988144099712372,
+          0.8850946426395827,
+          0.8478272259235403
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2411764,
+    "index": 833,
+    "caption_group": [
+      {
+        "group_index": 2872,
+        "True1": "the person who wears a green cap holds an open box",
+        "True2": "the person who holds a pillow wears a black top",
+        "False1": "the person who wears a green cap wears a black top",
+        "False2": "the person who holds a pillow holds an open box",
+        "score": [
+          0.7629194669676489,
+          0.8312101066112518,
+          0.8641552627086679,
+          0.7960110916446395
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2346913,
+    "index": 651,
+    "caption_group": [
+      {
+        "group_index": 2365,
+        "True1": "the person who carries a white refrigerator pushes a cart",
+        "True2": "the person who holds a white bag wears a dark blue jacket",
+        "False1": "the person who carries a white refrigerator wears a dark blue jacket",
+        "False2": "the person who holds a white bag pushes a cart",
+        "score": [
+          0.8990781942412134,
+          0.8932322861659179,
+          0.879181712890434,
+          0.9009602965926731
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2392023,
+    "index": 292,
+    "caption_group": [
+      {
+        "group_index": 1129,
+        "True1": "the person who jumps on a white and black skateboard wears a black and white shirt",
+        "True2": "the person who watches an event sits on a concrete",
+        "False1": "the person who jumps on a white and black skateboard sits on a concrete",
+        "False2": "the person who watches an event wears a black and white shirt",
+        "score": [
+          0.8605973742649646,
+          0.8553488552570404,
+          0.8091577204454143,
+          0.872055560653777
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2388076,
+    "index": 324,
+    "caption_group": [
+      {
+        "group_index": 1221,
+        "True1": "the person who wears a white shirt wears a black skirt",
+        "True2": "the person who holds a black and white racket wears a blue and purple",
+        "False1": "the person who wears a white shirt wears a blue and purple",
+        "False2": "the person who holds a black and white racket wears a black skirt",
+        "score": [
+          0.8855995535998503,
+          0.7275719820402395,
+          0.8165504054888337,
+          0.8023454406351622
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2380262,
+    "index": 424,
+    "caption_group": [
+      {
+        "group_index": 1572,
+        "True1": "the person who holds a red umbrella wears gray pants",
+        "True2": "the person who wears a purple shirt wears blue pants",
+        "False1": "the person who holds a red umbrella wears blue pants",
+        "False2": "the person who wears a purple shirt wears gray pants",
+        "score": [
+          0.8799913227558136,
+          0.8882054090499878,
+          0.889850378036499,
+          0.8845219910144806
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2417614,
+    "index": 843,
+    "caption_group": [
+      {
+        "group_index": 2901,
+        "True1": "the man who wears a beige coat wears ear warmers",
+        "True2": "the man who wears a green hat wears a scarf",
+        "False1": "the man who wears a beige coat wears a scarf",
+        "False2": "the man who wears a green hat wears ear warmers",
+        "score": [
+          0.889764610599642,
+          0.9086953997614342,
+          0.9192534089293091,
+          0.8841665411296438
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2403289,
+    "index": 171,
+    "caption_group": [
+      {
+        "group_index": 676,
+        "True1": "the person who wears a black i <3 atl shirt carries a large racket",
+        "True2": "the person who wears a red shirt wears plaid shorts",
+        "False1": "the person who wears a black i <3 atl shirt wears plaid shorts",
+        "False2": "the person who wears a red shirt carries a large racket",
+        "score": [
+          0.7847580388139346,
+          0.8669763505458834,
+          0.8064584144093554,
+          0.8123966928488646
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2320046,
+    "index": 760,
+    "caption_group": [
+      {
+        "group_index": 2655,
+        "True1": "the person who performs on an upright snowboard wears brown pants",
+        "True2": "the person who stands by a fence stands on a snowy hill",
+        "False1": "the person who performs on an upright snowboard stands on a snowy hill",
+        "False2": "the person who stands by a fence wears brown pants",
+        "score": [
+          0.8768645581047753,
+          0.7262310274006076,
+          0.8147057869852842,
+          0.8771760165691386
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2404394,
+    "index": 153,
+    "caption_group": [
+      {
+        "group_index": 604,
+        "True1": "the person who wears grey and gray sweat pants wears a white shirt",
+        "True2": "the person who sits on a grass wears a black t-shirt",
+        "False1": "the person who wears grey and gray sweat pants wears a black t-shirt",
+        "False2": "the person who sits on a grass wears a white shirt",
+        "score": [
+          0.8387667243537384,
+          0.8170969967682555,
+          0.8408223222352278,
+          0.8169466853141785
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 498003,
+    "index": 15,
+    "caption_group": [
+      {
+        "group_index": 42,
+        "True1": "the man who wears brown tennis shoes wears shorts",
+        "True2": "the man who wears a black hat wears a red robe",
+        "False1": "the man who wears brown tennis shoes wears a red robe",
+        "False2": "the man who wears a black hat wears shorts",
+        "score": [
+          0.8685812950136678,
+          0.9094797968871312,
+          0.9143023192920012,
+          0.859345555305481
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2368397,
+    "index": 505,
+    "caption_group": [
+      {
+        "group_index": 1794,
+        "True1": "the man who wears a fedora hat passes papers",
+        "True2": "the man who wears an orange and red shirt wears a khakis",
+        "False1": "the man who wears a fedora hat wears a khakis",
+        "False2": "the man who wears an orange and red shirt passes papers",
+        "score": [
+          0.7862760424613953,
+          0.8756292846248623,
+          0.8659173547830797,
+          0.786859929561615
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2406446,
+    "index": 121,
+    "caption_group": [
+      {
+        "group_index": 509,
+        "True1": "the man who wears a dye shirt wears blue jeans",
+        "True2": "the man who wears a white shirt wears a khakis",
+        "False1": "the man who wears a dye shirt wears a khakis",
+        "False2": "the man who wears a white shirt wears blue jeans",
+        "score": [
+          0.8743754625320435,
+          0.8822971285292618,
+          0.8320248126983663,
+          0.9128741621974154
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2355341,
+    "index": 609,
+    "caption_group": [
+      {
+        "group_index": 2191,
+        "True1": "the person who wears a dark suit hangs from a clock",
+        "True2": "the person who wears a white jacket stands at a silver podium",
+        "False1": "the person who wears a dark suit stands at a silver podium",
+        "False2": "the person who wears a white jacket hangs from a clock",
+        "score": [
+          0.8279353457830035,
+          0.8864649441234653,
+          0.895401206142189,
+          0.8157810817067281
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2371600,
+    "index": 491,
+    "caption_group": [
+      {
+        "group_index": 1766,
+        "True1": "the woman who holds papers wears brown shoes",
+        "True2": "the woman who wears sandals looks at an open laptop",
+        "False1": "the woman who holds papers looks at an open laptop",
+        "False2": "the woman who wears sandals wears brown shoes",
+        "score": [
+          0.8793893456459068,
+          0.8291957379828931,
+          0.8161787092685735,
+          0.8887664973766225
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2330269,
+    "index": 729,
+    "caption_group": [
+      {
+        "group_index": 2567,
+        "True1": "the person who wears a black top hat carries a cane",
+        "True2": "the person who carries a white umbrella wears a dress",
+        "False1": "the person who wears a black top hat wears a dress",
+        "False2": "the person who carries a white umbrella carries a cane",
+        "score": [
+          0.8667355477832921,
+          0.8710466327706552,
+          0.8676864494611829,
+          0.8692187070858963
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2366950,
+    "index": 514,
+    "caption_group": [
+      {
+        "group_index": 1841,
+        "True1": "the person who wears glasses wears a paisley tie",
+        "True2": "the person who wears a sheer white shirt wears striped pants",
+        "False1": "the person who wears glasses wears striped pants",
+        "False2": "the person who wears a sheer white shirt wears a paisley tie",
+        "score": [
+          0.8872404694567144,
+          0.8985524475574493,
+          0.8986278176307678,
+          0.8853365795994902
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 1592044,
+    "index": 26,
+    "caption_group": [
+      {
+        "group_index": 74,
+        "True1": "the person who wears a gray vest wears taupe pants",
+        "True2": "the person who wears a blue and white top wears black pants",
+        "False1": "the person who wears a gray vest wears black pants",
+        "False2": "the person who wears a blue and white top wears taupe pants",
+        "score": [
+          0.8818069696426392,
+          0.8604506850249432,
+          0.8838872313499451,
+          0.8595883549932004
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2379186,
+    "index": 434,
+    "caption_group": [
+      {
+        "group_index": 1620,
+        "True1": "the person who holds a white controller wears a black dress",
+        "True2": "the person who wears blue jeans sits on stairs",
+        "False1": "the person who holds a white controller sits on stairs",
+        "False2": "the person who wears blue jeans wears a black dress",
+        "score": [
+          0.8222290590673216,
+          0.846743643283844,
+          0.8246358036994934,
+          0.8873402774366692
+        ]
+      }
+    ]
+  }
+]

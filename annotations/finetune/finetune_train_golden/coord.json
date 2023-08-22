@@ -1,0 +1,3802 @@
+[
+  {
+    "image_id": 2415947,
+    "index": 867,
+    "caption_group": [
+      {
+        "group_index": 3017,
+        "True1": "the woman wears cream pants and wears a black sweater",
+        "True2": "the person wears a tan hat and wears a gray and green jacket",
+        "False1": "the woman wears cream pants and wears a tan hat",
+        "False2": "the person wears a black sweater and wears a gray and green jacket",
+        "score": [
+          0.8972981572151184,
+          0.856030226362759,
+          0.8978853225708019,
+          0.8672830187267326
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2344979,
+    "index": 682,
+    "caption_group": [
+      {
+        "group_index": 2489,
+        "True1": "the woman wears a sweater and carries a purse",
+        "True2": "the man wears khaki pants and wears a floral shirt",
+        "False1": "the woman wears a sweater and wears khaki pants",
+        "False2": "the man carries a purse and wears a floral shirt",
+        "score": [
+          0.8695880472660078,
+          0.894264131784589,
+          0.8876174986362457,
+          0.8632663786411285
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2402028,
+    "index": 189,
+    "caption_group": [
+      {
+        "group_index": 758,
+        "True1": "the player wears a shiny blue helmet and swings a shattered bat",
+        "True2": "the catcher has black leg guards and wears a red helmet",
+        "False1": "the player wears a shiny blue helmet and has black leg guards",
+        "False2": "the catcher swings a shattered bat and wears a red helmet",
+        "score": [
+          0.8212403096029155,
+          0.8009877220520805,
+          0.8179808956709378,
+          0.7853049464111306
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2402838,
+    "index": 183,
+    "caption_group": [
+      {
+        "group_index": 734,
+        "True1": "the lady has tall knee high boots and wears blue jeans",
+        "True2": "the lady holds a black umbrella and has a big bag",
+        "False1": "the lady has tall knee high boots and holds a black umbrella",
+        "False2": "the lady wears blue jeans and has a big bag",
+        "score": [
+          0.8415034413481892,
+          0.8124729651478022,
+          0.8114793809287323,
+          0.8349563686844539
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2413503,
+    "index": 34,
+    "caption_group": [
+      {
+        "group_index": 93,
+        "True1": "the skier wears a red jacket and stands on fresh snow",
+        "True2": "the person sits on fresh snow and putts on a white snowboard",
+        "False1": "the skier wears a red jacket and sits on fresh snow",
+        "False2": "the person stands on fresh snow and putts on a white snowboard",
+        "score": [
+          0.8395557354466758,
+          0.8272758347044582,
+          0.8660599020222377,
+          0.7135966918982803
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2402334,
+    "index": 187,
+    "caption_group": [
+      {
+        "group_index": 755,
+        "True1": "the woman wears a blue shirt and wears green pants",
+        "True2": "the man wears a black shirt and leans on a yellow hydrant",
+        "False1": "the woman wears a blue shirt and leans on a yellow hydrant",
+        "False2": "the man wears green pants and wears a black shirt",
+        "score": [
+          0.9078154563903809,
+          0.8555980414821883,
+          0.8149678082810952,
+          0.8826731145381927
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2366107,
+    "index": 537,
+    "caption_group": [
+      {
+        "group_index": 1927,
+        "True1": "the woman wears a red coat and wears a dark blue scarf",
+        "True2": "the man wears a black hat and sits on a green bench",
+        "False1": "the woman wears a red coat and wears a black hat",
+        "False2": "the man wears a dark blue scarf and sits on a green bench",
+        "score": [
+          0.9154700040817434,
+          0.912549525499344,
+          0.9084464013576711,
+          0.9173068404271237
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2391197,
+    "index": 312,
+    "caption_group": [
+      {
+        "group_index": 1224,
+        "True1": "the man wears a red tee shirt and has a round frisbee",
+        "True2": "the man wears purple shorts and wears a purple and white tshirt",
+        "False1": "the man wears a red tee shirt and wears purple shorts",
+        "False2": "the man has a round frisbee and wears a purple and white tshirt",
+        "score": [
+          0.8003238859524663,
+          0.8739596736926688,
+          0.909572243716974,
+          0.7365291706867784
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2339287,
+    "index": 719,
+    "caption_group": [
+      {
+        "group_index": 2603,
+        "True1": "the person wears a dark vest and wears a purple shirt",
+        "True2": "the man wears a flannel shirt and sits on a couch",
+        "False1": "the person wears a dark vest and wears a flannel shirt",
+        "False2": "the man wears a purple shirt and sits on a couch",
+        "score": [
+          0.8358770012855645,
+          0.9112159040646645,
+          0.8634853065028418,
+          0.9117197996596914
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2414797,
+    "index": 29,
+    "caption_group": [
+      {
+        "group_index": 79,
+        "True1": "the woman wears a red shirt and holds a large suitcase",
+        "True2": "the woman wears a print skirt and wears a black shirt",
+        "False1": "the woman wears a red shirt and wears a print skirt",
+        "False2": "the woman holds a large suitcase and wears a black shirt",
+        "score": [
+          0.8915592432542272,
+          0.8747360408306122,
+          0.8855833709239962,
+          0.8621518909931183
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2405641,
+    "index": 135,
+    "caption_group": [
+      {
+        "group_index": 557,
+        "True1": "the person wears a tan hat and wears a striped shirt",
+        "True2": "the boy has an oar and wears a short sleeved shirt",
+        "False1": "the person wears a tan hat and wears a short sleeved shirt",
+        "False2": "the boy wears a striped shirt and has an oar",
+        "score": [
+          0.8733201324939728,
+          0.7904325128221481,
+          0.8630692958954359,
+          0.8084855535107185
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2411597,
+    "index": 45,
+    "caption_group": [
+      {
+        "group_index": 132,
+        "True1": "the person wears a long skirt and carries a black bag",
+        "True2": "the man wears a gray shirt and wears a khakis",
+        "False1": "the person wears a long skirt and wears a gray shirt",
+        "False2": "the man carries a black bag and wears a khakis",
+        "score": [
+          0.854846273412411,
+          0.86297395825393,
+          0.8536823093891144,
+          0.8294199110486253
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2382505,
+    "index": 411,
+    "caption_group": [
+      {
+        "group_index": 1557,
+        "True1": "the man wears a striped shirt and stands at a round curb",
+        "True2": "the man walks on a street and wears a white shirt",
+        "False1": "the man wears a striped shirt and walks on a street",
+        "False2": "the man stands at a round curb and wears a white shirt",
+        "score": [
+          0.8973089158538344,
+          0.8781770765781403,
+          0.9088117069974817,
+          0.8015067875388997
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2407784,
+    "index": 105,
+    "caption_group": [
+      {
+        "group_index": 464,
+        "True1": "the man sits on a grey curb and wears an orange shirt",
+        "True2": "the man has on a reflector vest and carries a black bag",
+        "False1": "the man sits on a grey curb and has on a reflector vest",
+        "False2": "the man wears an orange shirt and carries a black bag",
+        "score": [
+          0.858656376600305,
+          0.805623446165763,
+          0.7940317392430318,
+          0.8977335694348092
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2401081,
+    "index": 198,
+    "caption_group": [
+      {
+        "group_index": 800,
+        "True1": "the woman eats a hotdog and wears a blue scarf",
+        "True2": "the woman sits by a yellow wall and wears a jean denim",
+        "False1": "the woman eats a hotdog and sits by a yellow wall",
+        "False2": "the woman wears a blue scarf and wears a jean denim",
+        "score": [
+          0.8779892623424533,
+          0.766402367020167,
+          0.806295101296774,
+          0.8665288757178152
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2386681,
+    "index": 349,
+    "caption_group": [
+      {
+        "group_index": 1310,
+        "True1": "the man wears a yellow and orange shirt and wears a straw hat",
+        "True2": "the lady holds a gray umbrella and wears a plaid shirt",
+        "False1": "the man wears a yellow and orange shirt and holds a gray umbrella",
+        "False2": "the lady wears a straw hat and wears a plaid shirt",
+        "score": [
+          0.8901778216766045,
+          0.8107544481754307,
+          0.8805919691924975,
+          0.8666747808456423
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2393883,
+    "index": 276,
+    "caption_group": [
+      {
+        "group_index": 1112,
+        "True1": "the man wears a no shirt and wears white shorts",
+        "True2": "the lady cuts a decorative cake and wears a floral tank top",
+        "False1": "the man wears a no shirt and cuts a decorative cake",
+        "False2": "the lady wears white shorts and wears a floral tank top",
+        "score": [
+          0.8403105437761874,
+          0.8632702231540501,
+          0.8440200388432233,
+          0.8485080599785246
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2396505,
+    "index": 250,
+    "caption_group": [
+      {
+        "group_index": 1029,
+        "True1": "the woman wears a red coat and holds a pink umbrella",
+        "True2": "the woman wears colored boots and holds a green umbrella",
+        "False1": "the woman wears a red coat and holds a green umbrella",
+        "False2": "the woman holds a pink umbrella and wears colored boots",
+        "score": [
+          0.8761176470195196,
+          0.8801946938172984,
+          0.88813823468562,
+          0.8248850405216313
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2391290,
+    "index": 310,
+    "caption_group": [
+      {
+        "group_index": 1220,
+        "True1": "the man wears a blue jacket and wears a red glove",
+        "True2": "the skier holds ski poles and wears a tan coat",
+        "False1": "the man wears a blue jacket and holds ski poles",
+        "False2": "the skier wears a red glove and wears a tan coat",
+        "score": [
+          0.9033435831944936,
+          0.8716914057883964,
+          0.8924202919006348,
+          0.8984127044677969
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2325044,
+    "index": 768,
+    "caption_group": [
+      {
+        "group_index": 2721,
+        "True1": "the person wears a pink shirt and wears khaki shorts",
+        "True2": "the person wears a yellow shirt and leans on a fence",
+        "False1": "the person wears a pink shirt and leans on a fence",
+        "False2": "the person wears khaki shorts and wears a yellow shirt",
+        "score": [
+          0.8646906023582525,
+          0.851944152265099,
+          0.8399672573535018,
+          0.838747143747536
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2320158,
+    "index": 783,
+    "caption_group": [
+      {
+        "group_index": 2748,
+        "True1": "the girl wears a red vest and wears black shorts",
+        "True2": "the woman wears a yellow vest and wears a scarf",
+        "False1": "the girl wears a red vest and wears a scarf",
+        "False2": "the woman wears black shorts and wears a yellow vest",
+        "score": [
+          0.868880927567107,
+          0.8897138833999634,
+          0.8726880550384526,
+          0.8845080435296715
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2337934,
+    "index": 726,
+    "caption_group": [
+      {
+        "group_index": 2621,
+        "True1": "the man wears blue pants and wears a wet street",
+        "True2": "the man wears a yellow shirt and stands on a sidewalk",
+        "False1": "the man wears blue pants and wears a yellow shirt",
+        "False2": "the man wears a wet street and stands on a sidewalk",
+        "score": [
+          0.7993930578233104,
+          0.9033217132665161,
+          0.8868802785873413,
+          0.7085557132959366
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2390048,
+    "index": 323,
+    "caption_group": [
+      {
+        "group_index": 1259,
+        "True1": "the skateboarder wears a purple shirt and flips a black skateboard",
+        "True2": "the boy wears a striped shirt and holds a bag",
+        "False1": "the skateboarder wears a purple shirt and holds a bag",
+        "False2": "the boy flips a black skateboard and wears a striped shirt",
+        "score": [
+          0.8184356709381695,
+          0.8528414090831854,
+          0.8181174046250305,
+          0.8899236945066802
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2407491,
+    "index": 107,
+    "caption_group": [
+      {
+        "group_index": 490,
+        "True1": "the person holds a brown bag and wears a skirt",
+        "True2": "the person wears a red hat and wears a shirt",
+        "False1": "the person holds a brown bag and wears a red hat",
+        "False2": "the person wears a skirt and wears a shirt",
+        "score": [
+          0.7632428109656696,
+          0.8187770545482635,
+          0.7857474088688401,
+          0.8048563599586487
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2362756,
+    "index": 571,
+    "caption_group": [
+      {
+        "group_index": 2073,
+        "True1": "the man wears a red shirt and wears long pants",
+        "True2": "the man sits on a grey and white ramp and wears blue jeans",
+        "False1": "the man wears a red shirt and sits on a grey and white ramp",
+        "False2": "the man wears long pants and wears blue jeans",
+        "score": [
+          0.892892450094223,
+          0.8597962408511063,
+          0.8748663962152018,
+          0.8981811106204987
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2351142,
+    "index": 653,
+    "caption_group": [
+      {
+        "group_index": 2347,
+        "True1": "the woman holds a brown horse and wears a sweater",
+        "True2": "the man holds a machine and plows a field",
+        "False1": "the woman holds a brown horse and holds a machine",
+        "False2": "the man wears a sweater and plows a field",
+        "score": [
+          0.7196815013886619,
+          0.7191142771309158,
+          0.7206528335960423,
+          0.8549338931856417
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2398495,
+    "index": 225,
+    "caption_group": [
+      {
+        "group_index": 919,
+        "True1": "the man plays with a controller and sits on a wooden chair",
+        "True2": "the woman sits on the floor and wears a pink blouse",
+        "False1": "the man plays with a controller and sits on the floor",
+        "False2": "the woman sits on a wooden chair and wears a pink blouse",
+        "score": [
+          0.8581988717063109,
+          0.8616449832955795,
+          0.8404548168183211,
+          0.8449955284631748
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2393970,
+    "index": 275,
+    "caption_group": [
+      {
+        "group_index": 1111,
+        "True1": "the woman wears a tank top and wears a short black skirt",
+        "True2": "the man holds a big camera and wears tennis shoes",
+        "False1": "the woman wears a tank top and holds a big camera",
+        "False2": "the man wears a short black skirt and wears tennis shoes",
+        "score": [
+          0.8971299831984201,
+          0.8497739732416527,
+          0.87369279291567,
+          0.9027821459023874
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2385247,
+    "index": 370,
+    "caption_group": [
+      {
+        "group_index": 1416,
+        "True1": "the girl wears short shorts and wears a white and black tank top",
+        "True2": "the man wears a cotton tee shirt and wears a baby carrier",
+        "False1": "the girl wears short shorts and wears a cotton tee shirt",
+        "False2": "the man wears a white and black tank top and wears a baby carrier",
+        "score": [
+          0.8511393372295266,
+          0.8996802870213387,
+          0.8636302351951599,
+          0.8875213581329462
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2386334,
+    "index": 356,
+    "caption_group": [
+      {
+        "group_index": 1349,
+        "True1": "the person wears a yellow and white jacket and wears blue pants",
+        "True2": "the person wears a greenish brown jacket and wears light blue jeans",
+        "False1": "the person wears a yellow and white jacket and wears light blue jeans",
+        "False2": "the person wears blue pants and wears a greenish brown jacket",
+        "score": [
+          0.8579356372371443,
+          0.8695623877253801,
+          0.8555287504471085,
+          0.8520857095719357
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 115,
+    "index": 1,
+    "caption_group": [
+      {
+        "group_index": 1,
+        "True1": "the man has a brown tie and wears a yellow shirt",
+        "True2": "the woman wears a white top and wears a black skirt",
+        "False1": "the man has a brown tie and wears a white top",
+        "False2": "the woman wears a yellow shirt and wears a black skirt",
+        "score": [
+          0.8732048571109772,
+          0.8786000314295292,
+          0.8234764337539673,
+          0.9027334749811408
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2399449,
+    "index": 215,
+    "caption_group": [
+      {
+        "group_index": 897,
+        "True1": "the woman stands in a kitchen and wears a purple shirt",
+        "True2": "the girl putts sauce on pizza shells and wears a red tank top",
+        "False1": "the woman stands in a kitchen and putts sauce on pizza shells",
+        "False2": "the girl wears a purple shirt and wears a red tank top",
+        "score": [
+          0.7986297607422008,
+          0.7820806013840936,
+          0.7676673829564051,
+          0.8588260412216278
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2400493,
+    "index": 205,
+    "caption_group": [
+      {
+        "group_index": 835,
+        "True1": "the woman wears a white with red shirt and has on a purple hat",
+        "True2": "the child wears a blue hat and wears a colorful shirt",
+        "False1": "the woman wears a white with red shirt and wears a blue hat",
+        "False2": "the child has on a purple hat and wears a colorful shirt",
+        "score": [
+          0.7986739988049927,
+          0.8795938789844513,
+          0.8428676070942316,
+          0.7337427139289591
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2358393,
+    "index": 599,
+    "caption_group": [
+      {
+        "group_index": 2160,
+        "True1": "the woman wears a white scarf and smiles at a brown horse",
+        "True2": "the girl pets a brown horse and wears a black coat",
+        "False1": "the woman wears a white scarf and pets a brown horse",
+        "False2": "the girl smiles at a brown horse and wears a black coat",
+        "score": [
+          0.8108554188947112,
+          0.8846368790341319,
+          0.9015979170799409,
+          0.7492499795259111
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2376775,
+    "index": 476,
+    "caption_group": [
+      {
+        "group_index": 1763,
+        "True1": "the person wears a black jacket and wears tan pants",
+        "True2": "the person wears a camo shirt and wears a military uniform",
+        "False1": "the person wears a black jacket and wears a camo shirt",
+        "False2": "the person wears tan pants and wears a military uniform",
+        "score": [
+          0.8749929666519165,
+          0.8686909272200831,
+          0.8680230081119178,
+          0.8537241220474373
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 1159913,
+    "index": 25,
+    "caption_group": [
+      {
+        "group_index": 70,
+        "True1": "the man holds white controllers and plays games",
+        "True2": "the woman wears blue jeans and wears a black shirt",
+        "False1": "the man holds white controllers and wears blue jeans",
+        "False2": "the woman plays games and wears a black shirt",
+        "score": [
+          0.7957077920436859,
+          0.8818772733211517,
+          0.8202333450317383,
+          0.8241289854049683
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2333403,
+    "index": 745,
+    "caption_group": [
+      {
+        "group_index": 2659,
+        "True1": "the man rides on a wagon and leads a horse",
+        "True2": "the man wears long pants and rides a bicycle",
+        "False1": "the man rides on a wagon and wears long pants",
+        "False2": "the man leads a horse and rides a bicycle",
+        "score": [
+          0.8763827980417557,
+          0.8966208100318909,
+          0.8734365999698639,
+          0.8762539029121399
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2392695,
+    "index": 291,
+    "caption_group": [
+      {
+        "group_index": 1154,
+        "True1": "the woman carries a black purse and wears a long scarf",
+        "True2": "the man wears a blue sweater and tries to touch a red and black motorcycle",
+        "False1": "the woman carries a black purse and wears a blue sweater",
+        "False2": "the man wears a long scarf and tries to touch a red and black motorcycle",
+        "score": [
+          0.8705958425998689,
+          0.8015094551682826,
+          0.8629792630672455,
+          0.8089425855305665
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2407006,
+    "index": 118,
+    "caption_group": [
+      {
+        "group_index": 516,
+        "True1": "the player has a black bat and has an orange shirt",
+        "True2": "the catcher has a glove and has a helmet",
+        "False1": "the player has a black bat and has a glove",
+        "False2": "the catcher has an orange shirt and has a helmet",
+        "score": [
+          0.7646559477399164,
+          0.7169972687111974,
+          0.7710458842722114,
+          0.7693843888991296
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2401566,
+    "index": 192,
+    "caption_group": [
+      {
+        "group_index": 781,
+        "True1": "the woman wears tan boots and wears a jean skirt",
+        "True2": "the girl stands on a cement sidewalk and wears a purple backpack",
+        "False1": "the woman wears tan boots and stands on a cement sidewalk",
+        "False2": "the girl wears a jean skirt and wears a purple backpack",
+        "score": [
+          0.8902108967304478,
+          0.8085871267478719,
+          0.8820940554141998,
+          0.8616077419126047
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2384878,
+    "index": 377,
+    "caption_group": [
+      {
+        "group_index": 1434,
+        "True1": "the woman wears a black hat and looks at an old cellphone",
+        "True2": "the woman wears a green tank top and holds a beer bottle",
+        "False1": "the woman wears a black hat and wears a green tank top",
+        "False2": "the woman looks at an old cellphone and holds a beer bottle",
+        "score": [
+          0.8208638088219197,
+          0.858234971777449,
+          0.8896100223064424,
+          0.7338880605625726
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2377522,
+    "index": 471,
+    "caption_group": [
+      {
+        "group_index": 1750,
+        "True1": "the boy sits in a raft and wears a blue vest",
+        "True2": "the little girl holds a pole and wears an orange life vest",
+        "False1": "the boy sits in a raft and wears an orange life vest",
+        "False2": "the little girl wears a blue vest and holds a pole",
+        "score": [
+          0.8420605685302716,
+          0.7423070520742749,
+          0.8219132151291637,
+          0.8663031773244012
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2384251,
+    "index": 385,
+    "caption_group": [
+      {
+        "group_index": 1472,
+        "True1": "the woman holds a flip cell phone and wears a twisted bracelet",
+        "True2": "the man holds a gray camera and wears a green and red cord",
+        "False1": "the woman holds a flip cell phone and holds a gray camera",
+        "False2": "the man wears a twisted bracelet and wears a green and red cord",
+        "score": [
+          0.843291491481642,
+          0.8167714179173339,
+          0.8448054563587961,
+          0.8467292529097026
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2408449,
+    "index": 98,
+    "caption_group": [
+      {
+        "group_index": 414,
+        "True1": "the person wears a black shirt and wears sweat pants",
+        "True2": "the person wears red pants and stands in an outfield",
+        "False1": "the person wears a black shirt and wears red pants",
+        "False2": "the person wears sweat pants and stands in an outfield",
+        "score": [
+          0.8811698853969574,
+          0.7708757042665462,
+          0.8783936500549316,
+          0.7729183562974913
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2379397,
+    "index": 447,
+    "caption_group": [
+      {
+        "group_index": 1681,
+        "True1": "the man holds on to a bicycle and wears black jeans",
+        "True2": "the man climbs up a truck and wears a red and orange jacket",
+        "False1": "the man holds on to a bicycle and climbs up a truck",
+        "False2": "the man wears black jeans and wears a red and orange jacket",
+        "score": [
+          0.888351559638977,
+          0.9059562397882973,
+          0.8822281660159955,
+          0.8934133649167606
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2380355,
+    "index": 436,
+    "caption_group": [
+      {
+        "group_index": 1623,
+        "True1": "the child holds an orange bat and wears a gray t shirt",
+        "True2": "the child wears a pink jacket and wears blue jeans",
+        "False1": "the child holds an orange bat and wears a pink jacket",
+        "False2": "the child wears a gray t shirt and wears blue jeans",
+        "score": [
+          0.7717594260882821,
+          0.885473608970649,
+          0.7597449421953606,
+          0.8913061916844114
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2408164,
+    "index": 103,
+    "caption_group": [
+      {
+        "group_index": 458,
+        "True1": "the girl wears an orange headband and wears a white shirt",
+        "True2": "the man wears blue gloves and leans against a wooden barrel",
+        "False1": "the girl wears an orange headband and wears blue gloves",
+        "False2": "the man wears a white shirt and leans against a wooden barrel",
+        "score": [
+          0.8421554267407563,
+          0.8716346327745296,
+          0.8690377772550778,
+          0.8826476037865898
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2403296,
+    "index": 176,
+    "caption_group": [
+      {
+        "group_index": 701,
+        "True1": "the man has a red shirt and wears tan pants",
+        "True2": "the woman has a shadow and has a white and red tennis outfit",
+        "False1": "the man has a red shirt and has a shadow",
+        "False2": "the woman wears tan pants and has a white and red tennis outfit",
+        "score": [
+          0.8864520192146301,
+          0.7330113160881926,
+          0.7200675494266028,
+          0.8239078931619992
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2405256,
+    "index": 140,
+    "caption_group": [
+      {
+        "group_index": 569,
+        "True1": "the man wears tan shorts and wears white socks",
+        "True2": "the person sits on a black bench and wears a purple shirt",
+        "False1": "the man wears tan shorts and sits on a black bench",
+        "False2": "the person wears white socks and wears a purple shirt",
+        "score": [
+          0.8937929272651672,
+          0.8314871192041168,
+          0.9096508622169495,
+          0.8477039933204651
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2385546,
+    "index": 367,
+    "caption_group": [
+      {
+        "group_index": 1407,
+        "True1": "the player has blue shoes and has white shorts",
+        "True2": "the man wears a red shirt and has short sleeves",
+        "False1": "the player has blue shoes and wears a red shirt",
+        "False2": "the man has white shorts and has short sleeves",
+        "score": [
+          0.7723665839201017,
+          0.8993593454360962,
+          0.7970651686191559,
+          0.8717025816440582
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2410206,
+    "index": 70,
+    "caption_group": [
+      {
+        "group_index": 236,
+        "True1": "the man has white shoes and has a blue and white scarf",
+        "True2": "the man has black and white shoes and has a leather jacket",
+        "False1": "the man has white shoes and has a leather jacket",
+        "False2": "the man has a blue and white scarf and has black and white shoes",
+        "score": [
+          0.8778784275545688,
+          0.8513495624745542,
+          0.8743395507335663,
+          0.872330432999101
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2362351,
+    "index": 574,
+    "caption_group": [
+      {
+        "group_index": 2078,
+        "True1": "the man walks in a street and wears a white uniform",
+        "True2": "the man wears a green t-shirt and wears blue jeans",
+        "False1": "the man walks in a street and wears a green t-shirt",
+        "False2": "the man wears a white uniform and wears blue jeans",
+        "score": [
+          0.8502690196037297,
+          0.9049444796745539,
+          0.8029634883112946,
+          0.9042676687240618
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2407141,
+    "index": 116,
+    "caption_group": [
+      {
+        "group_index": 514,
+        "True1": "the lady has red sunglasses and wears a blue shirt",
+        "True2": "the lady wears white pants and holds a feed",
+        "False1": "the lady has red sunglasses and wears white pants",
+        "False2": "the lady wears a blue shirt and holds a feed",
+        "score": [
+          0.8557128012180328,
+          0.7590086460113525,
+          0.8702598810195923,
+          0.7593433856972222
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2393233,
+    "index": 284,
+    "caption_group": [
+      {
+        "group_index": 1124,
+        "True1": "the man wears a striped shirt and wears tan shorts",
+        "True2": "the child has a banana and wears blue jeans",
+        "False1": "the man wears a striped shirt and has a banana",
+        "False2": "the child wears tan shorts and wears blue jeans",
+        "score": [
+          0.9010500311851536,
+          0.7020035535097122,
+          0.8243240416133462,
+          0.8759085237979889
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2383399,
+    "index": 400,
+    "caption_group": [
+      {
+        "group_index": 1526,
+        "True1": "the woman wears a shirt and has black shoes",
+        "True2": "the man wears a tan hat and wears a blue jacket",
+        "False1": "the woman wears a shirt and wears a tan hat",
+        "False2": "the man has black shoes and wears a blue jacket",
+        "score": [
+          0.8352240025997419,
+          0.8947407007217458,
+          0.8823738098144588,
+          0.873649537563324
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2411182,
+    "index": 49,
+    "caption_group": [
+      {
+        "group_index": 158,
+        "True1": "the man wears a backpack and wears khaki pants",
+        "True2": "the person holds a picket sign and wears a blue jacket",
+        "False1": "the man wears a backpack and holds a picket sign",
+        "False2": "the person wears khaki pants and wears a blue jacket",
+        "score": [
+          0.9033051431179047,
+          0.8182181418400352,
+          0.8686182201250414,
+          0.8456815183804602
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2410934,
+    "index": 55,
+    "caption_group": [
+      {
+        "group_index": 170,
+        "True1": "the batter wears white pants and wears a black helmet",
+        "True2": "the catcher wears a red helmet and wears guards",
+        "False1": "the batter wears white pants and wears a red helmet",
+        "False2": "the catcher wears a black helmet and wears guards",
+        "score": [
+          0.8846862614194999,
+          0.7244396507740137,
+          0.8858260214330711,
+          0.7168874442577462
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2334333,
+    "index": 739,
+    "caption_group": [
+      {
+        "group_index": 2647,
+        "True1": "the man wears jeans and wears a strap",
+        "True2": "the man wears dark pants and wears a short sleeved shirt",
+        "False1": "the man wears jeans and wears dark pants",
+        "False2": "the man wears a strap and wears a short sleeved shirt",
+        "score": [
+          0.7908602356910706,
+          0.8848239183425918,
+          0.885570228099823,
+          0.8590741157531891
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2355260,
+    "index": 630,
+    "caption_group": [
+      {
+        "group_index": 2293,
+        "True1": "the man wears khaki pants and wears a blue shirt",
+        "True2": "the woman wears a white shirt and wears jeans",
+        "False1": "the man wears khaki pants and wears a white shirt",
+        "False2": "the woman wears a blue shirt and wears jeans",
+        "score": [
+          0.8881172537803703,
+          0.8995623886585237,
+          0.8895597755908966,
+          0.9021990895271321
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2375457,
+    "index": 484,
+    "caption_group": [
+      {
+        "group_index": 1793,
+        "True1": "the man looks at a red phone and has sunglasses",
+        "True2": "the woman wears a blue necklace and has manicured nails",
+        "False1": "the man looks at a red phone and wears a blue necklace",
+        "False2": "the woman has sunglasses and has manicured nails",
+        "score": [
+          0.7215078175076346,
+          0.8505246043232859,
+          0.7458907495607877,
+          0.8335849344730377
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2395681,
+    "index": 258,
+    "caption_group": [
+      {
+        "group_index": 1065,
+        "True1": "the father wears a gray and grey t-shirt and wears brown shorts",
+        "True2": "the son wears red shorts and wears a white t-shirt",
+        "False1": "the father wears a gray and grey t-shirt and wears red shorts",
+        "False2": "the son wears brown shorts and wears a white t-shirt",
+        "score": [
+          0.7667545815790835,
+          0.8574304090960461,
+          0.7616385979499678,
+          0.8532786547222727
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2406342,
+    "index": 125,
+    "caption_group": [
+      {
+        "group_index": 529,
+        "True1": "the man wears plaid shorts and carries a backpack",
+        "True2": "the man holds a white surfboard and wears a blue and black wetsuit",
+        "False1": "the man wears plaid shorts and holds a white surfboard",
+        "False2": "the man carries a backpack and wears a blue and black wetsuit",
+        "score": [
+          0.8872065544144931,
+          0.8635621409033094,
+          0.8488539983750705,
+          0.8772487131384397
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2414721,
+    "index": 819,
+    "caption_group": [
+      {
+        "group_index": 2833,
+        "True1": "the man wears a dark tie and has a large guitar",
+        "True2": "the man wears a hoodie and wears shorts",
+        "False1": "the man wears a dark tie and wears a hoodie",
+        "False2": "the man has a large guitar and wears shorts",
+        "score": [
+          0.8721287551627812,
+          0.8689556717970853,
+          0.897735178471466,
+          0.8089476525783951
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2371825,
+    "index": 502,
+    "caption_group": [
+      {
+        "group_index": 1828,
+        "True1": "the girl has a tank top and wears a purple shirt",
+        "True2": "the man wears short pants and wears a white shirt",
+        "False1": "the girl has a tank top and wears a white shirt",
+        "False2": "the man wears a purple shirt and wears short pants",
+        "score": [
+          0.773020029068032,
+          0.8818143308162689,
+          0.7730974853038788,
+          0.898817241191864
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2355756,
+    "index": 623,
+    "caption_group": [
+      {
+        "group_index": 2270,
+        "True1": "the man wears an orange shirt and sits in a chair",
+        "True2": "the woman has a long sleeved shirt and has black shorts",
+        "False1": "the man wears an orange shirt and has black shorts",
+        "False2": "the woman sits in a chair and has a long sleeved shirt",
+        "score": [
+          0.9085500650796289,
+          0.8260476612265151,
+          0.8574729264302943,
+          0.7657132148845891
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2350419,
+    "index": 655,
+    "caption_group": [
+      {
+        "group_index": 2362,
+        "True1": "the lady wears cutoff shorts and has a white shirt",
+        "True2": "the lady wears black shorts and has a red t shirt",
+        "False1": "the lady wears cutoff shorts and has a red t shirt",
+        "False2": "the lady has a white shirt and wears black shorts",
+        "score": [
+          0.8066197931766714,
+          0.7884668708077476,
+          0.8117026996103125,
+          0.7797249559430768
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2345648,
+    "index": 679,
+    "caption_group": [
+      {
+        "group_index": 2484,
+        "True1": "the woman has a red kerchief and wears a red and yellow skirt",
+        "True2": "the woman has a green shirt and stands under a tan umbrella",
+        "False1": "the woman has a red kerchief and has a green shirt",
+        "False2": "the woman wears a red and yellow skirt and stands under a tan umbrella",
+        "score": [
+          0.7962822119843078,
+          0.7708025883207197,
+          0.8110355378018566,
+          0.8599612831053072
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2406446,
+    "index": 124,
+    "caption_group": [
+      {
+        "group_index": 528,
+        "True1": "the man wears a dye shirt and wears blue jeans",
+        "True2": "the man wears a white shirt and wears a khakis",
+        "False1": "the man wears a dye shirt and wears a khakis",
+        "False2": "the man wears blue jeans and wears a white shirt",
+        "score": [
+          0.8950031995773315,
+          0.8662239611235031,
+          0.8372762203216553,
+          0.8859857022762299
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2403585,
+    "index": 168,
+    "caption_group": [
+      {
+        "group_index": 665,
+        "True1": "the man wears a navy sport coat and wears a dark suit",
+        "True2": "the man wears blue jeans and wears a brown shirt",
+        "False1": "the man wears a navy sport coat and wears blue jeans",
+        "False2": "the man wears a dark suit and wears a brown shirt",
+        "score": [
+          0.8943004088400701,
+          0.884916365146637,
+          0.9073628187179673,
+          0.8754497766494751
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2412093,
+    "index": 852,
+    "caption_group": [
+      {
+        "group_index": 2973,
+        "True1": "the man jumps over an upside down skateboard and wears black pants",
+        "True2": "the boy wears a white t-shirt and wears blue jeans",
+        "False1": "the man jumps over an upside down skateboard and wears a white t-shirt",
+        "False2": "the boy wears black pants and wears blue jeans",
+        "score": [
+          0.9002588094431321,
+          0.894347399549471,
+          0.8989807263090903,
+          0.8920559287071228
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 906,
+    "index": 5,
+    "caption_group": [
+      {
+        "group_index": 15,
+        "True1": "the man wears jeans and wears a black and green shirt",
+        "True2": "the woman wears a long jacket and holds a pole",
+        "False1": "the man wears jeans and wears a long jacket",
+        "False2": "the woman wears a black and green shirt and holds a pole",
+        "score": [
+          0.8777151107788093,
+          0.851502627134389,
+          0.8934637606143951,
+          0.8481236407833184
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2344483,
+    "index": 688,
+    "caption_group": [
+      {
+        "group_index": 2496,
+        "True1": "the man wears a tie and holds a pillow",
+        "True2": "the man wears a blue shirt and wears a backpack",
+        "False1": "the man wears a tie and wears a blue shirt",
+        "False2": "the man holds a pillow and wears a backpack",
+        "score": [
+          0.8143487572669983,
+          0.8941151798110591,
+          0.8835554420948029,
+          0.806082040072405
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2365033,
+    "index": 544,
+    "caption_group": [
+      {
+        "group_index": 1950,
+        "True1": "the man holds a black parasol and has camo shorts",
+        "True2": "the woman wears a gray top and takes a photo",
+        "False1": "the man holds a black parasol and wears a gray top",
+        "False2": "the woman has camo shorts and takes a photo",
+        "score": [
+          0.7711209654808057,
+          0.8887579842924606,
+          0.7913845479492123,
+          0.812453706788633
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2347496,
+    "index": 668,
+    "caption_group": [
+      {
+        "group_index": 2433,
+        "True1": "the person wears a grey shirt and sits on a green chair",
+        "True2": "the woman sits on a floral couch and wears a purple shirt",
+        "False1": "the person wears a grey shirt and sits on a floral couch",
+        "False2": "the woman sits on a green chair and wears a purple shirt",
+        "score": [
+          0.857116423356096,
+          0.8816947042943835,
+          0.8542935848260731,
+          0.8381403684617816
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2375654,
+    "index": 482,
+    "caption_group": [
+      {
+        "group_index": 1790,
+        "True1": "the boy has a black sweatshirt and walks on a rocky beach",
+        "True2": "the person layers on a white surfboard and has a blue shirt",
+        "False1": "the boy has a black sweatshirt and layers on a white surfboard",
+        "False2": "the person walks on a rocky beach and has a blue shirt",
+        "score": [
+          0.830123074104211,
+          0.722201705586857,
+          0.7379572868827169,
+          0.7632612604940279
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 285612,
+    "index": 13,
+    "caption_group": [
+      {
+        "group_index": 37,
+        "True1": "the person wears a blue jacket and carries a black backpack",
+        "True2": "the man stands on a ski and wears a snow gear",
+        "False1": "the person wears a blue jacket and stands on a ski",
+        "False2": "the man carries a black backpack and wears a snow gear",
+        "score": [
+          0.854755228904013,
+          0.7650456180101319,
+          0.8405343441617286,
+          0.7523153727041008
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2408544,
+    "index": 96,
+    "caption_group": [
+      {
+        "group_index": 394,
+        "True1": "the kid wears a snow suit and wears a striped knit cap",
+        "True2": "the woman has ski poles and has a brown jacket",
+        "False1": "the kid wears a snow suit and has ski poles",
+        "False2": "the woman wears a striped knit cap and has a brown jacket",
+        "score": [
+          0.8840755820289801,
+          0.8162786364604209,
+          0.8518206775188446,
+          0.8478435874594927
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2341820,
+    "index": 708,
+    "caption_group": [
+      {
+        "group_index": 2577,
+        "True1": "the player swings a bat and wears a red hat",
+        "True2": "the man wears a blue shirt and sits on a green field",
+        "False1": "the player swings a bat and wears a blue shirt",
+        "False2": "the man wears a red hat and sits on a green field",
+        "score": [
+          0.7823092937671859,
+          0.8962594198940836,
+          0.7718295156955894,
+          0.9011853451491023
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 713037,
+    "index": 18,
+    "caption_group": [
+      {
+        "group_index": 50,
+        "True1": "the man wears a leather baseball glove and wears a blue shirt",
+        "True2": "the player wears white pants and wears a gold shirt",
+        "False1": "the man wears a leather baseball glove and wears a gold shirt",
+        "False2": "the player wears a blue shirt and wears white pants",
+        "score": [
+          0.8884928524495219,
+          0.8466430604457855,
+          0.886651724576963,
+          0.8827336728572845
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2412921,
+    "index": 35,
+    "caption_group": [
+      {
+        "group_index": 96,
+        "True1": "the man wears red and black sandels and wears a tan shirt",
+        "True2": "the girl wears a yellow shirt and has a blue purse",
+        "False1": "the man wears red and black sandels and wears a yellow shirt",
+        "False2": "the girl wears a tan shirt and has a blue purse",
+        "score": [
+          0.8592308165163713,
+          0.83860004779363,
+          0.8629939562018835,
+          0.828213099658685
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2355764,
+    "index": 622,
+    "caption_group": [
+      {
+        "group_index": 2267,
+        "True1": "the girl wears a white shirt and wears black and white pants",
+        "True2": "the girl wears a pink shirt and wears green shorts",
+        "False1": "the girl wears a white shirt and wears green shorts",
+        "False2": "the girl wears black and white pants and wears a pink shirt",
+        "score": [
+          0.8818177283092519,
+          0.8771218967400793,
+          0.875420451251333,
+          0.8316711485462378
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2363063,
+    "index": 567,
+    "caption_group": [
+      {
+        "group_index": 2043,
+        "True1": "the boy wears black and gray shorts and rides a gray and white skateboard",
+        "True2": "the kid wears yellow pants and rides a flipping skateboard",
+        "False1": "the boy wears black and gray shorts and rides a flipping skateboard",
+        "False2": "the kid rides a gray and white skateboard and wears yellow pants",
+        "score": [
+          0.8724326182585628,
+          0.8764915192174325,
+          0.8769371152741651,
+          0.836839258733495
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2344359,
+    "index": 689,
+    "caption_group": [
+      {
+        "group_index": 2503,
+        "True1": "the man has a crew cut and wears a red jersey",
+        "True2": "the man wears a white shirt and looks at a video camera",
+        "False1": "the man has a crew cut and wears a white shirt",
+        "False2": "the man wears a red jersey and looks at a video camera",
+        "score": [
+          0.8821505904248629,
+          0.8776430700417267,
+          0.8675737977027893,
+          0.8572286069168407
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2387181,
+    "index": 341,
+    "caption_group": [
+      {
+        "group_index": 1295,
+        "True1": "the man wears a red shirt and wears blue jeans",
+        "True2": "the child holds a small babydoll and wears a straw cowboy hat",
+        "False1": "the man wears a red shirt and holds a small babydoll",
+        "False2": "the child wears blue jeans and wears a straw cowboy hat",
+        "score": [
+          0.9079094529151917,
+          0.8268390508925623,
+          0.8680072894201087,
+          0.8894118368829911
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2341857,
+    "index": 707,
+    "caption_group": [
+      {
+        "group_index": 2576,
+        "True1": "the man wears jeans and wears a red shirt",
+        "True2": "the man wears black shorts and wears shoes",
+        "False1": "the man wears jeans and wears black shorts",
+        "False2": "the man wears a red shirt and wears shoes",
+        "score": [
+          0.8908408582210541,
+          0.8670590817928315,
+          0.8795723021030426,
+          0.8742483556270606
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2381890,
+    "index": 416,
+    "caption_group": [
+      {
+        "group_index": 1574,
+        "True1": "the soldier has a chest and has black and blue pants",
+        "True2": "the man wears an uniform and cuts a red and blue cake",
+        "False1": "the soldier has a chest and wears an uniform",
+        "False2": "the man has black and blue pants and cuts a red and blue cake",
+        "score": [
+          0.7806757688541037,
+          0.8355996310823581,
+          0.7754837870598306,
+          0.7755499804405674
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2411297,
+    "index": 46,
+    "caption_group": [
+      {
+        "group_index": 134,
+        "True1": "the person has a black jacket and holds skis",
+        "True2": "the woman wears a green jacket and wears a multicolored scarf",
+        "False1": "the person has a black jacket and wears a multicolored scarf",
+        "False2": "the woman holds skis and wears a green jacket",
+        "score": [
+          0.7438688578181192,
+          0.9040459143891728,
+          0.8221600171771726,
+          0.8123242855072026
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2356202,
+    "index": 616,
+    "caption_group": [
+      {
+        "group_index": 2241,
+        "True1": "the woman wears fur lined snow boots and wears black pants",
+        "True2": "the girl holds bright green ski poles and wears a pink jacket",
+        "False1": "the woman wears fur lined snow boots and holds bright green ski poles",
+        "False2": "the girl wears black pants and wears a pink jacket",
+        "score": [
+          0.8923085629940035,
+          0.7852186016215623,
+          0.8716998995512535,
+          0.8581590056419524
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2325897,
+    "index": 766,
+    "caption_group": [
+      {
+        "group_index": 2718,
+        "True1": "the person wears a brown jacket and sits on a black chair",
+        "True2": "the man wears a black jacket and walks by a table",
+        "False1": "the person wears a brown jacket and walks by a table",
+        "False2": "the man sits on a black chair and wears a black jacket",
+        "score": [
+          0.8696998942932672,
+          0.8864116372050115,
+          0.8295288110905303,
+          0.8795468807957265
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2381423,
+    "index": 423,
+    "caption_group": [
+      {
+        "group_index": 1596,
+        "True1": "the woman wears pink shorts and wears black and yellow shoes",
+        "True2": "the man wears orange shorts and wears long socks",
+        "False1": "the woman wears pink shorts and wears long socks",
+        "False2": "the man wears black and yellow shoes and wears orange shorts",
+        "score": [
+          0.881325788075136,
+          0.8929495215415955,
+          0.8889836072921753,
+          0.8793954850944965
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2360984,
+    "index": 579,
+    "caption_group": [
+      {
+        "group_index": 2091,
+        "True1": "the woman wears a white shirt and has a scarf",
+        "True2": "the woman has sunglasses and wears a dress",
+        "False1": "the woman wears a white shirt and has sunglasses",
+        "False2": "the woman has a scarf and wears a dress",
+        "score": [
+          0.8494693636894228,
+          0.8308272659778599,
+          0.8778315186500552,
+          0.7816450893899571
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2414839,
+    "index": 816,
+    "caption_group": [
+      {
+        "group_index": 2829,
+        "True1": "the woman has a dress and carries bags",
+        "True2": "the woman wears jeans and has a white bag",
+        "False1": "the woman has a dress and wears jeans",
+        "False2": "the woman carries bags and has a white bag",
+        "score": [
+          0.7212299108505249,
+          0.8313186466696623,
+          0.7340597659349442,
+          0.7267867933750318
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2363849,
+    "index": 553,
+    "caption_group": [
+      {
+        "group_index": 1974,
+        "True1": "the boy wears red shorts and holds a bat",
+        "True2": "the boy has green shorts and wears a blue hat",
+        "False1": "the boy wears red shorts and wears a blue hat",
+        "False2": "the boy holds a bat and has green shorts",
+        "score": [
+          0.8078434765344136,
+          0.8348287045956115,
+          0.8861944377422961,
+          0.7021607160568382
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2334571,
+    "index": 737,
+    "caption_group": [
+      {
+        "group_index": 2645,
+        "True1": "the man wears a white shirt and wears an uniform",
+        "True2": "the man wears a pink shirt and wears black pants",
+        "False1": "the man wears a white shirt and wears black pants",
+        "False2": "the man wears an uniform and wears a pink shirt",
+        "score": [
+          0.8520172238425633,
+          0.9066253900527954,
+          0.905760645866394,
+          0.8438318073749542
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2373310,
+    "index": 496,
+    "caption_group": [
+      {
+        "group_index": 1812,
+        "True1": "the man wears a white tee shirt and wears a black short",
+        "True2": "the man wears purple shorts and wears a red shirt",
+        "False1": "the man wears a white tee shirt and wears purple shorts",
+        "False2": "the man wears a black short and wears a red shirt",
+        "score": [
+          0.830241441800907,
+          0.8916017413139343,
+          0.9066308439035954,
+          0.7874444425106049
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2414605,
+    "index": 820,
+    "caption_group": [
+      {
+        "group_index": 2836,
+        "True1": "the man wears a gray hat and wears blue jeans",
+        "True2": "the boy wears a red and blue shirt and rides a brown horse",
+        "False1": "the man wears a gray hat and wears a red and blue shirt",
+        "False2": "the boy wears blue jeans and rides a brown horse",
+        "score": [
+          0.9042000472545624,
+          0.8869625315846794,
+          0.8459107577885012,
+          0.8996397256865
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2380420,
+    "index": 434,
+    "caption_group": [
+      {
+        "group_index": 1620,
+        "True1": "the kid wears a green shirt and wears black pants",
+        "True2": "the man wears shorts and wears a short sleeved shirt",
+        "False1": "the kid wears a green shirt and wears shorts",
+        "False2": "the man wears black pants and wears a short sleeved shirt",
+        "score": [
+          0.8940859436988831,
+          0.8802244365215302,
+          0.8520755780671534,
+          0.8884759843349477
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2356470,
+    "index": 613,
+    "caption_group": [
+      {
+        "group_index": 2217,
+        "True1": "the man rides a skateboard and wears a white tank top",
+        "True2": "the man wears khaki shorts and wears a blue shirt",
+        "False1": "the man rides a skateboard and wears khaki shorts",
+        "False2": "the man wears a white tank top and wears a blue shirt",
+        "score": [
+          0.8493937849998475,
+          0.8856175839901856,
+          0.8507909477107571,
+          0.8883216381073236
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2392620,
+    "index": 294,
+    "caption_group": [
+      {
+        "group_index": 1174,
+        "True1": "the man has a black skateboard and wears a light grey t-shirt",
+        "True2": "the man wears a dark grey shirt and wears a white hat",
+        "False1": "the man has a black skateboard and wears a dark grey shirt",
+        "False2": "the man wears a light grey t-shirt and wears a white hat",
+        "score": [
+          0.8471783902143746,
+          0.9044827822476535,
+          0.852443367391073,
+          0.906066909134328
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2352117,
+    "index": 648,
+    "caption_group": [
+      {
+        "group_index": 2337,
+        "True1": "the girl holds a white remote control and holds a controller",
+        "True2": "the girl wears a red hoody and sits on a couch",
+        "False1": "the girl holds a white remote control and wears a red hoody",
+        "False2": "the girl holds a controller and sits on a couch",
+        "score": [
+          0.8048109154835646,
+          0.8830297488842291,
+          0.799713349469387,
+          0.7878592908382418
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2397102,
+    "index": 241,
+    "caption_group": [
+      {
+        "group_index": 979,
+        "True1": "the man wears a gray and grey tie and holds a glass bottle",
+        "True2": "the woman wears a strapless gown and wears a necklace",
+        "False1": "the man wears a gray and grey tie and wears a strapless gown",
+        "False2": "the woman holds a glass bottle and wears a necklace",
+        "score": [
+          0.7777771383278207,
+          0.8904838866547063,
+          0.8709625803886504,
+          0.7699741721177142
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2367600,
+    "index": 525,
+    "caption_group": [
+      {
+        "group_index": 1892,
+        "True1": "the man sits on a brown couch and wears a striped shirt",
+        "True2": "the man stands near stairs and wears brown pants",
+        "False1": "the man sits on a brown couch and stands near stairs",
+        "False2": "the man wears a striped shirt and wears brown pants",
+        "score": [
+          0.8901734948158309,
+          0.8419916927814484,
+          0.7622287571430206,
+          0.9011955559253693
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2317638,
+    "index": 796,
+    "caption_group": [
+      {
+        "group_index": 2782,
+        "True1": "the man holds a tennis racket and wears white shorts",
+        "True2": "the man wears dark shorts and stands on a court",
+        "False1": "the man holds a tennis racket and wears dark shorts",
+        "False2": "the man wears white shorts and stands on a court",
+        "score": [
+          0.8546830415725759,
+          0.8101945236068879,
+          0.8449886441230998,
+          0.7989506394473268
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2382424,
+    "index": 412,
+    "caption_group": [
+      {
+        "group_index": 1561,
+        "True1": "the man wears an orange shirt and holds a white laptop",
+        "True2": "the man wears jeans and wears a gray and blue shirt",
+        "False1": "the man wears an orange shirt and wears jeans",
+        "False2": "the man holds a white laptop and wears a gray and blue shirt",
+        "score": [
+          0.8959931135177694,
+          0.8706199228763583,
+          0.9005651473999251,
+          0.8578501641818939
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2393764,
+    "index": 277,
+    "caption_group": [
+      {
+        "group_index": 1114,
+        "True1": "the man takes a photo and wears a colorful tie",
+        "True2": "the woman holds a red coat and holds a white purse",
+        "False1": "the man takes a photo and holds a red coat",
+        "False2": "the woman wears a colorful tie and holds a white purse",
+        "score": [
+          0.9074165523052433,
+          0.7862064838484577,
+          0.7492717057466669,
+          0.8584674907788756
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2414861,
+    "index": 815,
+    "caption_group": [
+      {
+        "group_index": 2827,
+        "True1": "the man wears blue jeans and wears an orange t-shirt",
+        "True2": "the man holds a long stick and wears a buttoned down shirt",
+        "False1": "the man wears blue jeans and holds a long stick",
+        "False2": "the man wears an orange t-shirt and wears a buttoned down shirt",
+        "score": [
+          0.8942801091718109,
+          0.7601782977599849,
+          0.7491268664599453,
+          0.893031136857805
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2392811,
+    "index": 290,
+    "caption_group": [
+      {
+        "group_index": 1153,
+        "True1": "the woman has a light blue sweater and carries a made of plastic shopping bag",
+        "True2": "the man rides a skateboard and wears shorts",
+        "False1": "the woman has a light blue sweater and rides a skateboard",
+        "False2": "the man carries a made of plastic shopping bag and wears shorts",
+        "score": [
+          0.7926012373345395,
+          0.7848606407675458,
+          0.816989670525961,
+          0.7766964858801563
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2406331,
+    "index": 126,
+    "caption_group": [
+      {
+        "group_index": 532,
+        "True1": "the woman wears sandals and rides a bike",
+        "True2": "the driver sits behind a window and drives a blue and white bus",
+        "False1": "the woman wears sandals and sits behind a window",
+        "False2": "the driver rides a bike and drives a blue and white bus",
+        "score": [
+          0.8876928985118866,
+          0.8702458497008967,
+          0.8681297600288597,
+          0.8912736178054459
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2412390,
+    "index": 37,
+    "caption_group": [
+      {
+        "group_index": 111,
+        "True1": "the man wears shoes and wears a turtleneck",
+        "True2": "the person has dreadlocks and wears green pants",
+        "False1": "the man wears shoes and has dreadlocks",
+        "False2": "the person wears a turtleneck and wears green pants",
+        "score": [
+          0.8613373935223854,
+          0.8197333216667175,
+          0.8065308630469304,
+          0.8603359758853912
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2366950,
+    "index": 529,
+    "caption_group": [
+      {
+        "group_index": 1911,
+        "True1": "the man wears glasses and wears a paisley tie",
+        "True2": "the woman wears a sheer white shirt and wears striped pants",
+        "False1": "the man wears glasses and wears a sheer white shirt",
+        "False2": "the woman wears a paisley tie and wears striped pants",
+        "score": [
+          0.9025536477565776,
+          0.9081923067569733,
+          0.8929005861282349,
+          0.9015912115574075
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2407787,
+    "index": 104,
+    "caption_group": [
+      {
+        "group_index": 459,
+        "True1": "the man holds a black microphone and stands in a wood platform",
+        "True2": "the person has glasses and sits in a chair",
+        "False1": "the man holds a black microphone and has glasses",
+        "False2": "the person stands in a wood platform and sits in a chair",
+        "score": [
+          0.7065551579103485,
+          0.8399541095551286,
+          0.8337486982369685,
+          0.7378938977968786
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2366309,
+    "index": 534,
+    "caption_group": [
+      {
+        "group_index": 1922,
+        "True1": "the man wears grey pants and stands on a snowboard",
+        "True2": "the person sits on the ground and sits in snow",
+        "False1": "the man wears grey pants and sits on the ground",
+        "False2": "the person stands on a snowboard and sits in snow",
+        "score": [
+          0.821733027697091,
+          0.7511675655855647,
+          0.887933169507646,
+          0.7544320227008297
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2377665,
+    "index": 469,
+    "caption_group": [
+      {
+        "group_index": 1743,
+        "True1": "the batter wears a black helmet and wears a pinstriped uniform",
+        "True2": "the catcher wears a face gear and wears a red hat",
+        "False1": "the batter wears a black helmet and wears a face gear",
+        "False2": "the catcher wears a pinstriped uniform and wears a red hat",
+        "score": [
+          0.8861694343672072,
+          0.8032597303678974,
+          0.8020900785923921,
+          0.872607033004378
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2412567,
+    "index": 845,
+    "caption_group": [
+      {
+        "group_index": 2910,
+        "True1": "the child wears dark blue pants and wears a black hat",
+        "True2": "the child wears rubber shoes and has a yellow red toy broom",
+        "False1": "the child wears dark blue pants and wears rubber shoes",
+        "False2": "the child wears a black hat and has a yellow red toy broom",
+        "score": [
+          0.8815630078341993,
+          0.8262891368098153,
+          0.8870725632895617,
+          0.8433234930962579
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2322609,
+    "index": 773,
+    "caption_group": [
+      {
+        "group_index": 2733,
+        "True1": "the man wears a yellow shirt and wears a tan hat",
+        "True2": "the alien wears blue pants and flies in a blue sky",
+        "False1": "the man wears a yellow shirt and wears blue pants",
+        "False2": "the alien wears a tan hat and flies in a blue sky",
+        "score": [
+          0.9033265113846171,
+          0.842879430389164,
+          0.9053366184234619,
+          0.8565701166779403
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2414581,
+    "index": 821,
+    "caption_group": [
+      {
+        "group_index": 2845,
+        "True1": "the woman plays an old violin and wears clear shoes",
+        "True2": "the child wears denim overalls and wears a striped shirt",
+        "False1": "the woman plays an old violin and wears denim overalls",
+        "False2": "the child wears clear shoes and wears a striped shirt",
+        "score": [
+          0.8481935262680054,
+          0.8578513562682257,
+          0.7869470760698215,
+          0.85629802942276
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2344871,
+    "index": 685,
+    "caption_group": [
+      {
+        "group_index": 2493,
+        "True1": "the man wears a green shirt and wears khaki pants",
+        "True2": "the man wears a grey and gray shirt and wears shorts",
+        "False1": "the man wears a green shirt and wears shorts",
+        "False2": "the man wears khaki pants and wears a grey and gray shirt",
+        "score": [
+          0.905421704053881,
+          0.8296356706999569,
+          0.8722382219979893,
+          0.8554635687901426
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2400962,
+    "index": 200,
+    "caption_group": [
+      {
+        "group_index": 806,
+        "True1": "the man wears rolled up jeans and wears a grey backpack",
+        "True2": "the man rides back of a white bicycle and rides on a white frame",
+        "False1": "the man wears rolled up jeans and rides back of a white bicycle",
+        "False2": "the man wears a grey backpack and rides on a white frame",
+        "score": [
+          0.8785500527223622,
+          0.8346341195557734,
+          0.8775626138627529,
+          0.8045741450939636
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2381712,
+    "index": 418,
+    "caption_group": [
+      {
+        "group_index": 1587,
+        "True1": "the man wears a plastic parka and wears a hawaiian shirt",
+        "True2": "the woman holds a pink umbrella and wears a white blouse",
+        "False1": "the man wears a plastic parka and holds a pink umbrella",
+        "False2": "the woman wears a hawaiian shirt and wears a white blouse",
+        "score": [
+          0.8719301299410269,
+          0.8294231295587605,
+          0.8745771123360186,
+          0.8744663987596346
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2385739,
+    "index": 363,
+    "caption_group": [
+      {
+        "group_index": 1395,
+        "True1": "the man has a red and white frisbee and has a cream color t-shirt",
+        "True2": "the man has a gray t-shirt and has black and gray shorts",
+        "False1": "the man has a red and white frisbee and has a gray t-shirt",
+        "False2": "the man has a cream color t-shirt and has black and gray shorts",
+        "score": [
+          0.7860013140559902,
+          0.856863703002873,
+          0.8011119612607187,
+          0.8349272153602305
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2385621,
+    "index": 364,
+    "caption_group": [
+      {
+        "group_index": 1398,
+        "True1": "the woman wears a hoodie and walks down a dirty street",
+        "True2": "the man leans against a building and leans against a transparent glass window",
+        "False1": "the woman wears a hoodie and leans against a building",
+        "False2": "the man walks down a dirty street and leans against a transparent glass window",
+        "score": [
+          0.9096774419655037,
+          0.8264475212712292,
+          0.829959286875608,
+          0.9134694718933289
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2364417,
+    "index": 550,
+    "caption_group": [
+      {
+        "group_index": 1965,
+        "True1": "the man wears a white shirt and holds a beer",
+        "True2": "the man wears a black jacket and wears a golden tie",
+        "False1": "the man wears a white shirt and wears a black jacket",
+        "False2": "the man holds a beer and wears a golden tie",
+        "score": [
+          0.8732228582504924,
+          0.9119796157317874,
+          0.8979443311691393,
+          0.8375784456729892
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2359771,
+    "index": 584,
+    "caption_group": [
+      {
+        "group_index": 2100,
+        "True1": "the man wears a white shirt and wears a tie",
+        "True2": "the man wears a polo shirt and walks in a park",
+        "False1": "the man wears a white shirt and walks in a park",
+        "False2": "the man wears a tie and wears a polo shirt",
+        "score": [
+          0.901202380678906,
+          0.8637408483901372,
+          0.8688209127927193,
+          0.8894020318984985
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2384562,
+    "index": 382,
+    "caption_group": [
+      {
+        "group_index": 1458,
+        "True1": "the man wears dark brown cargo shorts and types on a blue and purple laptop",
+        "True2": "the woman wears a white shirt and layers on a white pillow",
+        "False1": "the man wears dark brown cargo shorts and wears a white shirt",
+        "False2": "the woman types on a blue and purple laptop and layers on a white pillow",
+        "score": [
+          0.8894621135618934,
+          0.8078179657459901,
+          0.8918766081333247,
+          0.7299562381749
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2346486,
+    "index": 672,
+    "caption_group": [
+      {
+        "group_index": 2470,
+        "True1": "the man holds a white controller and wears an orange shirt",
+        "True2": "the man looks at a flat screen tv and wears jeans",
+        "False1": "the man holds a white controller and looks at a flat screen tv",
+        "False2": "the man wears an orange shirt and wears jeans",
+        "score": [
+          0.838597297668457,
+          0.8344084626753856,
+          0.744015453354862,
+          0.9005651473999251
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2350039,
+    "index": 657,
+    "caption_group": [
+      {
+        "group_index": 2381,
+        "True1": "the man wears a black jacket and wears white shoes",
+        "True2": "the woman seats in a chair and wears a sleeveless dress",
+        "False1": "the man wears a black jacket and seats in a chair",
+        "False2": "the woman wears white shoes and wears a sleeveless dress",
+        "score": [
+          0.9055486023426222,
+          0.8882128596394253,
+          0.9069208192806618,
+          0.9042161703601723
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2327631,
+    "index": 757,
+    "caption_group": [
+      {
+        "group_index": 2696,
+        "True1": "the man has a white jersey and runs toward a white ball",
+        "True2": "the man wears blue shorts and wears a yellow shirt",
+        "False1": "the man has a white jersey and wears blue shorts",
+        "False2": "the man runs toward a white ball and wears a yellow shirt",
+        "score": [
+          0.7748442063278481,
+          0.8842673003673553,
+          0.8592054844029078,
+          0.7493471652305235
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2345037,
+    "index": 681,
+    "caption_group": [
+      {
+        "group_index": 2488,
+        "True1": "the man wears a cap and wears a blue shirt",
+        "True2": "the man wears a pink shirt and wears beige pants",
+        "False1": "the man wears a cap and wears a pink shirt",
+        "False2": "the man wears a blue shirt and wears beige pants",
+        "score": [
+          0.8753209114074707,
+          0.9108833372592926,
+          0.8780835270881653,
+          0.9101066589355469
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2395046,
+    "index": 265,
+    "caption_group": [
+      {
+        "group_index": 1082,
+        "True1": "the woman has pigtails and wears a dress",
+        "True2": "the woman wears a red top and wears leather pants",
+        "False1": "the woman has pigtails and wears a red top",
+        "False2": "the woman wears a dress and wears leather pants",
+        "score": [
+          0.8022274971590845,
+          0.8994717299938202,
+          0.8263328671455383,
+          0.8925519287586212
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2367675,
+    "index": 524,
+    "caption_group": [
+      {
+        "group_index": 1889,
+        "True1": "the man wears a white tie and wears a leather jacket",
+        "True2": "the man has a chest and wears a black hat",
+        "False1": "the man wears a white tie and has a chest",
+        "False2": "the man wears a leather jacket and wears a black hat",
+        "score": [
+          0.9027410447597504,
+          0.7788508832456436,
+          0.710057973864796,
+          0.9075940251355269
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2408350,
+    "index": 101,
+    "caption_group": [
+      {
+        "group_index": 456,
+        "True1": "the batter wears a blue shirt and wears striped pants",
+        "True2": "the catcher has a red shirt and wears shin guards",
+        "False1": "the batter wears a blue shirt and wears shin guards",
+        "False2": "the catcher wears striped pants and has a red shirt",
+        "score": [
+          0.8937769532203674,
+          0.7148352265635922,
+          0.8628274834450447,
+          0.790123701095581
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2384992,
+    "index": 374,
+    "caption_group": [
+      {
+        "group_index": 1429,
+        "True1": "the man sits at a large table and wears a gray and grey shirt",
+        "True2": "the man walks across the white floor and wears a red shirt",
+        "False1": "the man sits at a large table and wears a red shirt",
+        "False2": "the man wears a gray and grey shirt and walks across the white floor",
+        "score": [
+          0.8285189290790225,
+          0.91543141008313,
+          0.8686482310295163,
+          0.8563729736014289
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2368633,
+    "index": 517,
+    "caption_group": [
+      {
+        "group_index": 1860,
+        "True1": "the woman wears black pants and wears a brown shirt",
+        "True2": "the man has a plaid shirt and looks at a camera",
+        "False1": "the woman wears black pants and has a plaid shirt",
+        "False2": "the man wears a brown shirt and looks at a camera",
+        "score": [
+          0.8865285813808441,
+          0.7770333006666124,
+          0.8170377016067505,
+          0.8479134796517115
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2337188,
+    "index": 731,
+    "caption_group": [
+      {
+        "group_index": 2627,
+        "True1": "the man wears a gray hat and wears a shirt",
+        "True2": "the girl wears a green and white jumper and has a ponytail",
+        "False1": "the man wears a gray hat and wears a green and white jumper",
+        "False2": "the girl wears a shirt and has a ponytail",
+        "score": [
+          0.8021748960018162,
+          0.8061625037075585,
+          0.871256738927255,
+          0.8114530461791483
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2368436,
+    "index": 519,
+    "caption_group": [
+      {
+        "group_index": 1863,
+        "True1": "the person holds a wooden oar and wears a white hat",
+        "True2": "the woman wears a green hat and wears a checkered shirt",
+        "False1": "the person holds a wooden oar and wears a green hat",
+        "False2": "the woman wears a white hat and wears a checkered shirt",
+        "score": [
+          0.7997981915984866,
+          0.8856994509696987,
+          0.7976496826886045,
+          0.8864945769309998
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2352497,
+    "index": 645,
+    "caption_group": [
+      {
+        "group_index": 2321,
+        "True1": "the woman wears a white shirt and wears black pants",
+        "True2": "the little boy wears a blue shirt and wears rolled-up jeans",
+        "False1": "the woman wears a white shirt and wears rolled-up jeans",
+        "False2": "the little boy wears black pants and wears a blue shirt",
+        "score": [
+          0.9069684445858002,
+          0.9043234031930749,
+          0.9129004776523627,
+          0.874445557594328
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2408717,
+    "index": 91,
+    "caption_group": [
+      {
+        "group_index": 353,
+        "True1": "the surfer carries a neon longboard and wears a black and blue wetsuit",
+        "True2": "the surfer carries a short surfboard and wears a ladies wetsuit",
+        "False1": "the surfer carries a neon longboard and wears a ladies wetsuit",
+        "False2": "the surfer wears a black and blue wetsuit and carries a short surfboard",
+        "score": [
+          0.8119836313507678,
+          0.7536490981518076,
+          0.7455328010679729,
+          0.8307282786547887
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2358766,
+    "index": 595,
+    "caption_group": [
+      {
+        "group_index": 2145,
+        "True1": "the woman wears a red and orange necklace and sits at a wooden table",
+        "True2": "the person sits at a picnic table and wears a white",
+        "False1": "the woman wears a red and orange necklace and sits at a picnic table",
+        "False2": "the person sits at a wooden table and wears a white",
+        "score": [
+          0.8948976299706783,
+          0.7855047710923053,
+          0.9008497368837662,
+          0.7622597233309583
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2360765,
+    "index": 580,
+    "caption_group": [
+      {
+        "group_index": 2094,
+        "True1": "the man wears blue denim jeans and kneels on the brown floor",
+        "True2": "the man wears an orange shirt and sits on a black couch",
+        "False1": "the man wears blue denim jeans and wears an orange shirt",
+        "False2": "the man kneels on the brown floor and sits on a black couch",
+        "score": [
+          0.8887397310119407,
+          0.911595315098428,
+          0.890009760856917,
+          0.8990170993670921
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2317355,
+    "index": 800,
+    "caption_group": [
+      {
+        "group_index": 2788,
+        "True1": "the man carries a pink bag and wears a suit",
+        "True2": "the man wears a black shirt and wears jeans",
+        "False1": "the man carries a pink bag and wears a black shirt",
+        "False2": "the man wears a suit and wears jeans",
+        "score": [
+          0.8806900979715521,
+          0.8988700211048126,
+          0.8747710883617419,
+          0.877509206533432
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2329013,
+    "index": 754,
+    "caption_group": [
+      {
+        "group_index": 2689,
+        "True1": "the man wears black skates and wears a blue shirt",
+        "True2": "the skateboarder moves down a wood ramp and rides a skateboard",
+        "False1": "the man wears black skates and moves down a wood ramp",
+        "False2": "the skateboarder wears a blue shirt and rides a skateboard",
+        "score": [
+          0.8737203478813172,
+          0.8822889230210228,
+          0.8988417387008667,
+          0.8598514529313551
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2316327,
+    "index": 811,
+    "caption_group": [
+      {
+        "group_index": 2806,
+        "True1": "the man holds a bottle and wears a multi-colored tie",
+        "True2": "the woman holds a wineglass and wears a dress",
+        "False1": "the man holds a bottle and holds a wineglass",
+        "False2": "the woman wears a multi-colored tie and wears a dress",
+        "score": [
+          0.8348344276524111,
+          0.790627568983577,
+          0.7309481167604901,
+          0.8873334786120655
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2403507,
+    "index": 170,
+    "caption_group": [
+      {
+        "group_index": 684,
+        "True1": "the man wears a gree swimsuit and rides a brown skateboard",
+        "True2": "the man wears blue pants and walks on a sidewalk",
+        "False1": "the man wears a gree swimsuit and wears blue pants",
+        "False2": "the man rides a brown skateboard and walks on a sidewalk",
+        "score": [
+          0.8203516593035238,
+          0.9059374928494168,
+          0.7969965338712441,
+          0.8756620624526436
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2363220,
+    "index": 562,
+    "caption_group": [
+      {
+        "group_index": 2018,
+        "True1": "the boy wears blue jeans and wears a white hoodie",
+        "True2": "the man holds a white and grey skateboard and wears a white and black hoodie",
+        "False1": "the boy wears blue jeans and wears a white and black hoodie",
+        "False2": "the man wears a white hoodie and holds a white and grey skateboard",
+        "score": [
+          0.8916893742194056,
+          0.7608053060376034,
+          0.8784816900556773,
+          0.8341058717592422
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2414764,
+    "index": 817,
+    "caption_group": [
+      {
+        "group_index": 2830,
+        "True1": "the person holds a phone and wears tinted glasses",
+        "True2": "the person wears a stripped shirt and wears brown shorts",
+        "False1": "the person holds a phone and wears a stripped shirt",
+        "False2": "the person wears tinted glasses and wears brown shorts",
+        "score": [
+          0.8175933252022823,
+          0.8675498068332675,
+          0.7895320653915405,
+          0.8711009919643403
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2351851,
+    "index": 649,
+    "caption_group": [
+      {
+        "group_index": 2338,
+        "True1": "the man sits on a green bench and drinks water",
+        "True2": "the woman wears a pink sweater and wears a polka dot shirt",
+        "False1": "the man sits on a green bench and wears a pink sweater",
+        "False2": "the woman drinks water and wears a polka dot shirt",
+        "score": [
+          0.885821133852005,
+          0.9064086677582087,
+          0.8836562335491471,
+          0.8761948347091675
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2380961,
+    "index": 426,
+    "caption_group": [
+      {
+        "group_index": 1601,
+        "True1": "the woman wears a brown scarf and sits behind a big pizza",
+        "True2": "the woman sits in a booth and looks up at a ceiling",
+        "False1": "the woman wears a brown scarf and sits in a booth",
+        "False2": "the woman sits behind a big pizza and looks up at a ceiling",
+        "score": [
+          0.8911752402782446,
+          0.7603359831780122,
+          0.9180313358247457,
+          0.7111457481630947
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2335128,
+    "index": 736,
+    "caption_group": [
+      {
+        "group_index": 2644,
+        "True1": "the boy eats a doughnut and has papers",
+        "True2": "the man wears a hat and wears a black jacket",
+        "False1": "the boy eats a doughnut and wears a hat",
+        "False2": "the man has papers and wears a black jacket",
+        "score": [
+          0.7712138295173645,
+          0.8918068408966064,
+          0.8785579800631553,
+          0.8420376181602478
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2384720,
+    "index": 380,
+    "caption_group": [
+      {
+        "group_index": 1442,
+        "True1": "the person wears an orange shirt and wears a black helmet",
+        "True2": "the woman wears a white helmet and wears cuffed jeans",
+        "False1": "the person wears an orange shirt and wears a white helmet",
+        "False2": "the woman wears a black helmet and wears cuffed jeans",
+        "score": [
+          0.8662044112136722,
+          0.906450092792511,
+          0.8663356306665282,
+          0.9064275920391083
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2365889,
+    "index": 539,
+    "caption_group": [
+      {
+        "group_index": 1937,
+        "True1": "the batter wears white pants and holds a bat",
+        "True2": "the catcher wears a white and blue uniform and wears grey pants",
+        "False1": "the batter wears white pants and wears a white and blue uniform",
+        "False2": "the catcher holds a bat and wears grey pants",
+        "score": [
+          0.836844178501859,
+          0.8377010524347288,
+          0.8648026893613308,
+          0.7512350082397461
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2398297,
+    "index": 227,
+    "caption_group": [
+      {
+        "group_index": 922,
+        "True1": "the boy wears gray pants and holds a black ski pole",
+        "True2": "the boy has skis and wears a blue jacket",
+        "False1": "the boy wears gray pants and has skis",
+        "False2": "the boy holds a black ski pole and wears a blue jacket",
+        "score": [
+          0.8826755285263062,
+          0.8198143243789682,
+          0.7589238584042275,
+          0.850426287109462
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2409213,
+    "index": 86,
+    "caption_group": [
+      {
+        "group_index": 320,
+        "True1": "the woman wears a green and white dress and eats a dinner",
+        "True2": "the man has a large napkin and eats outdoor outdoors",
+        "False1": "the woman wears a green and white dress and has a large napkin",
+        "False2": "the man eats a dinner and eats outdoor outdoors",
+        "score": [
+          0.8716184907776049,
+          0.8601953387260437,
+          0.817163923660682,
+          0.7883493006229401
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2404017,
+    "index": 166,
+    "caption_group": [
+      {
+        "group_index": 663,
+        "True1": "the person wears black shorts and has a shadow",
+        "True2": "the person wears rolled shorts and rides on a tan sidewalk",
+        "False1": "the person wears black shorts and rides on a tan sidewalk",
+        "False2": "the person has a shadow and wears rolled shorts",
+        "score": [
+          0.7421711115097178,
+          0.8543721735477448,
+          0.8604351878168666,
+          0.7344965189695358
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2370712,
+    "index": 510,
+    "caption_group": [
+      {
+        "group_index": 1842,
+        "True1": "the woman wears a white shirt and sits at a tan table",
+        "True2": "the boy eats a pizza and wears an orange shirt",
+        "False1": "the woman wears a white shirt and eats a pizza",
+        "False2": "the boy sits at a tan table and wears an orange shirt",
+        "score": [
+          0.9047340271653491,
+          0.875904381275177,
+          0.9017423093409304,
+          0.8653497695927306
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2357695,
+    "index": 605,
+    "caption_group": [
+      {
+        "group_index": 2194,
+        "True1": "the woman talks on a telephone and wears a black jacket",
+        "True2": "the woman sits on a step and wears a pink top",
+        "False1": "the woman talks on a telephone and sits on a step",
+        "False2": "the woman wears a black jacket and wears a pink top",
+        "score": [
+          0.8372233510024263,
+          0.8419018387794495,
+          0.8283516469948189,
+          0.8710896968841558
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2398230,
+    "index": 228,
+    "caption_group": [
+      {
+        "group_index": 926,
+        "True1": "the girl has black bottoms and has a brown surfboard",
+        "True2": "the man has a no shirt on and holds a white surfboard",
+        "False1": "the girl has black bottoms and holds a white surfboard",
+        "False2": "the man has a brown surfboard and has a no shirt on",
+        "score": [
+          0.7359398798651887,
+          0.7239958461249032,
+          0.7112257259797929,
+          0.7838812871715375
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2392587,
+    "index": 296,
+    "caption_group": [
+      {
+        "group_index": 1176,
+        "True1": "the man wears black fedora and wears a red neck tie",
+        "True2": "the woman wears a dress and wears a brown feather boa",
+        "False1": "the man wears black fedora and wears a dress",
+        "False2": "the woman wears a red neck tie and wears a brown feather boa",
+        "score": [
+          0.8573523461835628,
+          0.7638142203621088,
+          0.8357822598407656,
+          0.7888964323480859
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2337218,
+    "index": 730,
+    "caption_group": [
+      {
+        "group_index": 2626,
+        "True1": "the woman holds a white wiimote and wears blue jeans",
+        "True2": "the man sits on a brown sofa and wears a shirt",
+        "False1": "the woman holds a white wiimote and sits on a brown sofa",
+        "False2": "the man wears blue jeans and wears a shirt",
+        "score": [
+          0.7080559283494949,
+          0.8100933432580607,
+          0.7183826417034451,
+          0.8138349056243896
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2390352,
+    "index": 319,
+    "caption_group": [
+      {
+        "group_index": 1240,
+        "True1": "the guy has a beard and holds a white hair dryer",
+        "True2": "the woman has a small necklace and wears blue jeans",
+        "False1": "the guy has a beard and has a small necklace",
+        "False2": "the woman holds a white hair dryer and wears blue jeans",
+        "score": [
+          0.8715595210976347,
+          0.831128776073456,
+          0.859495521395153,
+          0.869356542826863
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2317054,
+    "index": 803,
+    "caption_group": [
+      {
+        "group_index": 2791,
+        "True1": "the man wears stretchy shorts and wears a red jersey",
+        "True2": "the man wears an orange shirt and wears black pants",
+        "False1": "the man wears stretchy shorts and wears an orange shirt",
+        "False2": "the man wears a red jersey and wears black pants",
+        "score": [
+          0.8975753784194074,
+          0.9089034199714661,
+          0.8882079720497131,
+          0.9069001078605652
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2377680,
+    "index": 468,
+    "caption_group": [
+      {
+        "group_index": 1733,
+        "True1": "the man cuts a white cake and holds a silver knife",
+        "True2": "the woman wears a pink shirt and holds a white sweater",
+        "False1": "the man cuts a white cake and wears a pink shirt",
+        "False2": "the woman holds a silver knife and holds a white sweater",
+        "score": [
+          0.8890447617535122,
+          0.8043147921562201,
+          0.9025429487229158,
+          0.7382153123617172
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2348680,
+    "index": 664,
+    "caption_group": [
+      {
+        "group_index": 2392,
+        "True1": "the woman carries a blue umbrella and wears a yellow bracelet",
+        "True2": "the man wears a shirt and holds a green and white bag",
+        "False1": "the woman carries a blue umbrella and wears a shirt",
+        "False2": "the man wears a yellow bracelet and holds a green and white bag",
+        "score": [
+          0.8452571332475787,
+          0.8342601779588391,
+          0.7451426833868028,
+          0.8627518272682126
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2343378,
+    "index": 696,
+    "caption_group": [
+      {
+        "group_index": 2522,
+        "True1": "the man wears black shorts and wears a shirt",
+        "True2": "the woman wears red and black shorts and wears a white top",
+        "False1": "the man wears black shorts and wears a white top",
+        "False2": "the woman wears a shirt and wears red and black shorts",
+        "score": [
+          0.8278153836727142,
+          0.8209083378350611,
+          0.8695893585681915,
+          0.8752570154459578
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2320960,
+    "index": 779,
+    "caption_group": [
+      {
+        "group_index": 2741,
+        "True1": "the boy wears a brown hoodie and wears glasses",
+        "True2": "the man wears a green t-shirt and has a white hat",
+        "False1": "the boy wears a brown hoodie and wears a green t-shirt",
+        "False2": "the man wears glasses and has a white hat",
+        "score": [
+          0.8846665327865999,
+          0.8956787990222241,
+          0.8938298183565389,
+          0.8860907852649689
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2364569,
+    "index": 548,
+    "caption_group": [
+      {
+        "group_index": 1961,
+        "True1": "the man holds a bat and wears a blue shirt",
+        "True2": "the man wears a black shirt and wears gray pants",
+        "False1": "the man holds a bat and wears a black shirt",
+        "False2": "the man wears a blue shirt and wears gray pants",
+        "score": [
+          0.834523469209671,
+          0.9024574756622314,
+          0.828908771276474,
+          0.9016347825527191
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2355091,
+    "index": 632,
+    "caption_group": [
+      {
+        "group_index": 2295,
+        "True1": "the girl wears shorts and wears a hot pink",
+        "True2": "the girl wears a skirt and has shoes",
+        "False1": "the girl wears shorts and wears a skirt",
+        "False2": "the girl wears a hot pink and has shoes",
+        "score": [
+          0.7332987338305593,
+          0.8037071824074806,
+          0.8546013534167302,
+          0.7218055576484673
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2366493,
+    "index": 531,
+    "caption_group": [
+      {
+        "group_index": 1918,
+        "True1": "the skier wears a yellow parka and wears tan pants",
+        "True2": "the skier wears a blue-green parka and wears orange wind pants",
+        "False1": "the skier wears a yellow parka and wears orange wind pants",
+        "False2": "the skier wears tan pants and wears a blue-green parka",
+        "score": [
+          0.8642851412296295,
+          0.8554444728841629,
+          0.8524546948805742,
+          0.8313530840050587
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2384111,
+    "index": 388,
+    "caption_group": [
+      {
+        "group_index": 1479,
+        "True1": "the woman wears a blue skirt and wears a striped shirt",
+        "True2": "the woman wears a gold dress and stands on a sidewalk",
+        "False1": "the woman wears a blue skirt and wears a gold dress",
+        "False2": "the woman wears a striped shirt and stands on a sidewalk",
+        "score": [
+          0.8939530551433563,
+          0.8981967568483598,
+          0.899459362116522,
+          0.8957599103792131
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2351502,
+    "index": 652,
+    "caption_group": [
+      {
+        "group_index": 2343,
+        "True1": "the man wears blue pants and wears a white shirt",
+        "True2": "the man wears black shorts and wears a gray and grey shirt",
+        "False1": "the man wears blue pants and wears a gray and grey shirt",
+        "False2": "the man wears a white shirt and wears black shorts",
+        "score": [
+          0.8831416666507721,
+          0.8556697964705382,
+          0.8526801168930523,
+          0.9014844894411085
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2400626,
+    "index": 203,
+    "caption_group": [
+      {
+        "group_index": 813,
+        "True1": "the other man wears a khaki colored uniform and reaches into gray water",
+        "True2": "the man wears a blue shirt and drives a small boat",
+        "False1": "the other man wears a khaki colored uniform and wears a blue shirt",
+        "False2": "the man reaches into gray water and drives a small boat",
+        "score": [
+          0.7758116543267262,
+          0.9037791220342599,
+          0.8763877695628437,
+          0.8804398187209459
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 3298,
+    "index": 8,
+    "caption_group": [
+      {
+        "group_index": 19,
+        "True1": "the woman wears a green shirt and wears jeans",
+        "True2": "the woman wears a tank top and wears a black skirt",
+        "False1": "the woman wears a green shirt and wears a tank top",
+        "False2": "the woman wears jeans and wears a black skirt",
+        "score": [
+          0.9001325666904677,
+          0.8919819295540639,
+          0.8827745914459229,
+          0.8774123191833869
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2392363,
+    "index": 298,
+    "caption_group": [
+      {
+        "group_index": 1185,
+        "True1": "the man wears black sneakers and rides orange wheels",
+        "True2": "the man has a gray sweater and holds a bag",
+        "False1": "the man wears black sneakers and has a gray sweater",
+        "False2": "the man rides orange wheels and holds a bag",
+        "score": [
+          0.8907683491706848,
+          0.7770617609506676,
+          0.8686399459838867,
+          0.7612068672454024
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2362535,
+    "index": 572,
+    "caption_group": [
+      {
+        "group_index": 2076,
+        "True1": "the woman gets on a train and wears a yellow vest",
+        "True2": "the woman wears black pants and holds a green bag",
+        "False1": "the woman gets on a train and wears black pants",
+        "False2": "the woman wears a yellow vest and holds a green bag",
+        "score": [
+          0.8878544271051723,
+          0.8520314396631234,
+          0.8945635855197906,
+          0.8502871993969539
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2363486,
+    "index": 560,
+    "caption_group": [
+      {
+        "group_index": 1996,
+        "True1": "the man wears shoes and trains a black dog",
+        "True2": "the man wears a blue tee shirt and stands by a chalkboard",
+        "False1": "the man wears shoes and wears a blue tee shirt",
+        "False2": "the man trains a black dog and stands by a chalkboard",
+        "score": [
+          0.8236253261569864,
+          0.8621925237910156,
+          0.8819614946842194,
+          0.7726090856518998
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2414163,
+    "index": 32,
+    "caption_group": [
+      {
+        "group_index": 87,
+        "True1": "the girl wears a sleeveless shirt and wears white earphones",
+        "True2": "the man wears a blue shirt and wears checkered shorts",
+        "False1": "the girl wears a sleeveless shirt and wears checkered shorts",
+        "False2": "the man wears white earphones and wears a blue shirt",
+        "score": [
+          0.8690327124959853,
+          0.9009367526535422,
+          0.8835263918415504,
+          0.8858575820922852
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2396042,
+    "index": 254,
+    "caption_group": [
+      {
+        "group_index": 1050,
+        "True1": "the man wears an orange shirt and wears jeans",
+        "True2": "the boy rides a black skate board and wears a purple and blue hat",
+        "False1": "the man wears an orange shirt and rides a black skate board",
+        "False2": "the boy wears jeans and wears a purple and blue hat",
+        "score": [
+          0.9005651473999251,
+          0.886341521683006,
+          0.9089738511812253,
+          0.880886882622228
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2358936,
+    "index": 592,
+    "caption_group": [
+      {
+        "group_index": 2132,
+        "True1": "the woman wears a blue shirt and wears a tank top",
+        "True2": "the woman wears khaki shorts and pets a black dog",
+        "False1": "the woman wears a blue shirt and wears khaki shorts",
+        "False2": "the woman wears a tank top and pets a black dog",
+        "score": [
+          0.8841950595378876,
+          0.8751771542866253,
+          0.8962385179440807,
+          0.8908875585183175
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2413217,
+    "index": 833,
+    "caption_group": [
+      {
+        "group_index": 2878,
+        "True1": "the man gets a black haircut and gets a trim",
+        "True2": "the man has a green towel and gets a hair cut",
+        "False1": "the man gets a black haircut and has a green towel",
+        "False2": "the man gets a trim and gets a hair cut",
+        "score": [
+          0.8890141925566228,
+          0.8070531558251457,
+          0.7871155930600251,
+          0.8883071871480495
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2386804,
+    "index": 348,
+    "caption_group": [
+      {
+        "group_index": 1309,
+        "True1": "the person wears black boots and rides a standing motorcycle",
+        "True2": "the woman wears jeans and stands by a green motorcycle",
+        "False1": "the person wears black boots and stands by a green motorcycle",
+        "False2": "the woman rides a standing motorcycle and wears jeans",
+        "score": [
+          0.8505312800416851,
+          0.7653938829898834,
+          0.7816107571142831,
+          0.7593239843845367
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2358219,
+    "index": 601,
+    "caption_group": [
+      {
+        "group_index": 2185,
+        "True1": "the girl wears a pink shirt and sits at a table",
+        "True2": "the person wears blue jeans and leans against a wall",
+        "False1": "the girl wears a pink shirt and wears blue jeans",
+        "False2": "the person sits at a table and leans against a wall",
+        "score": [
+          0.8888087438022853,
+          0.8019679487129177,
+          0.8940865993500791,
+          0.7756385803436842
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2409090,
+    "index": 89,
+    "caption_group": [
+      {
+        "group_index": 335,
+        "True1": "the man wears eyeglasses and has a white shirt",
+        "True2": "the woman wears a black jacket and walks on a sidewalk",
+        "False1": "the man wears eyeglasses and wears a black jacket",
+        "False2": "the woman has a white shirt and walks on a sidewalk",
+        "score": [
+          0.8145612180233002,
+          0.9067077938411618,
+          0.8550291657447886,
+          0.7762442541433539
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2409650,
+    "index": 82,
+    "caption_group": [
+      {
+        "group_index": 313,
+        "True1": "the umpire wears a black shirt and has gray pants",
+        "True2": "the catcher has a jersey and has a blue and gray uniform",
+        "False1": "the umpire wears a black shirt and has a jersey",
+        "False2": "the catcher has gray pants and has a blue and gray uniform",
+        "score": [
+          0.723118588328625,
+          0.7505797491802102,
+          0.7111968705367505,
+          0.795596265139801
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2396337,
+    "index": 253,
+    "caption_group": [
+      {
+        "group_index": 1044,
+        "True1": "the boy wears a red shirt and wears blue shorts",
+        "True2": "the child wears a white t-shirt and wears an orange and yellow hat",
+        "False1": "the boy wears a red shirt and wears a white t-shirt",
+        "False2": "the child wears blue shorts and wears an orange and yellow hat",
+        "score": [
+          0.8891762793143889,
+          0.8814437468346472,
+          0.8798080172695318,
+          0.8734527833303416
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2377203,
+    "index": 474,
+    "caption_group": [
+      {
+        "group_index": 1757,
+        "True1": "the woman wears a white dress and has up hair",
+        "True2": "the man wears a shirt and wears black pants",
+        "False1": "the woman wears a white dress and wears a shirt",
+        "False2": "the man has up hair and wears black pants",
+        "score": [
+          0.7645538747310638,
+          0.8945827186107635,
+          0.8123883306980133,
+          0.8379386365413666
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2363300,
+    "index": 561,
+    "caption_group": [
+      {
+        "group_index": 1997,
+        "True1": "the woman holds a brown purse and wears an orange sweater",
+        "True2": "the man leans against a wall and wears a black jacket",
+        "False1": "the woman holds a brown purse and leans against a wall",
+        "False2": "the man wears an orange sweater and wears a black jacket",
+        "score": [
+          0.8161172568798065,
+          0.8992615938187053,
+          0.7555058301003486,
+          0.9028256535530423
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2330269,
+    "index": 751,
+    "caption_group": [
+      {
+        "group_index": 2667,
+        "True1": "the man wears a black top hat and carries a cane",
+        "True2": "the woman carries a white umbrella and wears a dress",
+        "False1": "the man wears a black top hat and carries a white umbrella",
+        "False2": "the woman carries a cane and wears a dress",
+        "score": [
+          0.8978327512741232,
+          0.8294447959909146,
+          0.9114776895365415,
+          0.8364013433463189
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2399132,
+    "index": 218,
+    "caption_group": [
+      {
+        "group_index": 904,
+        "True1": "the man wears a black and white shirt and holds an orange and black racket",
+        "True2": "the man wears an orange shirt and wears white shorts",
+        "False1": "the man wears a black and white shirt and wears white shorts",
+        "False2": "the man holds an orange and black racket and wears an orange shirt",
+        "score": [
+          0.7708057395688942,
+          0.9043109715016446,
+          0.8949768603732038,
+          0.7323029627694225
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2400226,
+    "index": 207,
+    "caption_group": [
+      {
+        "group_index": 855,
+        "True1": "the woman holds a white wii controller and wears a pink shirt",
+        "True2": "the man wears a brown shirt and sits in a brown chair",
+        "False1": "the woman holds a white wii controller and wears a brown shirt",
+        "False2": "the man wears a pink shirt and sits in a brown chair",
+        "score": [
+          0.7687246799708394,
+          0.9061899711144421,
+          0.7711046636105912,
+          0.9071912016464175
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2380574,
+    "index": 432,
+    "caption_group": [
+      {
+        "group_index": 1610,
+        "True1": "the man rides a bike and wears a white shirt",
+        "True2": "the woman has a red and white umbrella and has a purse",
+        "False1": "the man rides a bike and has a red and white umbrella",
+        "False2": "the woman wears a white shirt and has a purse",
+        "score": [
+          0.8596935570240021,
+          0.7741525375068639,
+          0.8279508968852798,
+          0.8667239562531119
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2379095,
+    "index": 451,
+    "caption_group": [
+      {
+        "group_index": 1692,
+        "True1": "the man has a clear helmet and wears a green shirt",
+        "True2": "the woman wears a hat and wears a red shirt",
+        "False1": "the man has a clear helmet and wears a red shirt",
+        "False2": "the woman wears a green shirt and wears a hat",
+        "score": [
+          0.8152177929878237,
+          0.8873519897460938,
+          0.8170966804027557,
+          0.8946221470833341
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2355984,
+    "index": 618,
+    "caption_group": [
+      {
+        "group_index": 2255,
+        "True1": "the man wears a white shirt and wears a black belt",
+        "True2": "the boy has a green jacket and wears tennis shoes",
+        "False1": "the man wears a white shirt and has a green jacket",
+        "False2": "the boy wears a black belt and wears tennis shoes",
+        "score": [
+          0.8724666833901813,
+          0.8482278883966243,
+          0.8879876434805938,
+          0.8915554583172474
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2399890,
+    "index": 209,
+    "caption_group": [
+      {
+        "group_index": 857,
+        "True1": "the man holds a red and white tennis racket and has a blue jacket",
+        "True2": "the man holds a brown tennis racket and has a purple jacket",
+        "False1": "the man holds a red and white tennis racket and has a purple jacket",
+        "False2": "the man has a blue jacket and holds a brown tennis racket",
+        "score": [
+          0.7884423884664691,
+          0.8228908918776097,
+          0.7895829763880547,
+          0.8280534018314931
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2341441,
+    "index": 712,
+    "caption_group": [
+      {
+        "group_index": 2588,
+        "True1": "the boy holds a racket and wears a white and blue shirt",
+        "True2": "the person wears a white hat and wears a black pant",
+        "False1": "the boy holds a racket and wears a white hat",
+        "False2": "the person wears a white and blue shirt and wears a black pant",
+        "score": [
+          0.7631356127013578,
+          0.8490712385314729,
+          0.796737492160357,
+          0.8306302106186707
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2399394,
+    "index": 217,
+    "caption_group": [
+      {
+        "group_index": 899,
+        "True1": "the man holds a sliced pizza and has white shoes",
+        "True2": "the man wears a blue shirt and sits on the ground",
+        "False1": "the man holds a sliced pizza and wears a blue shirt",
+        "False2": "the man has white shoes and sits on the ground",
+        "score": [
+          0.7951843738556332,
+          0.8954635036447682,
+          0.8414448499679572,
+          0.8207467504964054
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2389044,
+    "index": 329,
+    "caption_group": [
+      {
+        "group_index": 1272,
+        "True1": "the man wears a black suit and wears a floral tie",
+        "True2": "the man sits on a tan chair and wears a shirt",
+        "False1": "the man wears a black suit and sits on a tan chair",
+        "False2": "the man wears a floral tie and wears a shirt",
+        "score": [
+          0.9093031883241129,
+          0.7809800207619142,
+          0.9094236897913963,
+          0.837226331233984
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2383968,
+    "index": 391,
+    "caption_group": [
+      {
+        "group_index": 1494,
+        "True1": "the player holds a black and blue bat and wears an uniform",
+        "True2": "the catcher wears a red jersey and wears black shin guards",
+        "False1": "the player holds a black and blue bat and wears a red jersey",
+        "False2": "the catcher wears an uniform and wears black shin guards",
+        "score": [
+          0.7619687483858684,
+          0.8162619511698861,
+          0.8376977372239658,
+          0.7681675880865333
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2395782,
+    "index": 257,
+    "caption_group": [
+      {
+        "group_index": 1059,
+        "True1": "the man rides a grey and gray elephant and wears blue jeans",
+        "True2": "the man wades in brown water and wears a green shirt",
+        "False1": "the man rides a grey and gray elephant and wades in brown water",
+        "False2": "the man wears blue jeans and wears a green shirt",
+        "score": [
+          0.8213427973203048,
+          0.8365547955103467,
+          0.7785713564254284,
+          0.8890323638916016
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2383138,
+    "index": 402,
+    "caption_group": [
+      {
+        "group_index": 1533,
+        "True1": "the man wears black shorts and wears a shirt",
+        "True2": "the man wears checkered shorts and sits on an edge",
+        "False1": "the man wears black shorts and sits on an edge",
+        "False2": "the man wears a shirt and wears checkered shorts",
+        "score": [
+          0.8278153836727142,
+          0.8464276198509806,
+          0.8239201009276131,
+          0.8840899765491623
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2375605,
+    "index": 483,
+    "caption_group": [
+      {
+        "group_index": 1791,
+        "True1": "the umpire wears a black shirt and officiates a baseball game",
+        "True2": "the batter wears a blue and grey uniform and swings a white bat",
+        "False1": "the umpire wears a black shirt and wears a blue and grey uniform",
+        "False2": "the batter officiates a baseball game and swings a white bat",
+        "score": [
+          0.8734643248866232,
+          0.8032065355311069,
+          0.867298978861651,
+          0.8378619458505312
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2326192,
+    "index": 763,
+    "caption_group": [
+      {
+        "group_index": 2710,
+        "True1": "the girl wears jeans and stands near a gray elephant statue",
+        "True2": "the boy sits on a gray elephant statue and wears a coat",
+        "False1": "the girl wears jeans and sits on a gray elephant statue",
+        "False2": "the boy stands near a gray elephant statue and wears a coat",
+        "score": [
+          0.8454356491565704,
+          0.7936417347786144,
+          0.8437283039093018,
+          0.7610044734337197
+        ]
+      }
+    ]
+  }
+]
