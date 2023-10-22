@@ -24,12 +24,6 @@ def write_file(file_path, content):
 
 
 def get_img_path(img_id):
-    # VG_100K_path = os.path.join(base_dir, "VG_100K", str(img_id) + ".jpg")
-    # VG_100K_2_path = os.path.join(base_dir, "VG_100K_2", str(img_id) + ".jpg")
-    # if os.path.exists(VG_100K_path):
-    #     return VG_100K_path
-    # elif os.path.exists(VG_100K_2_path):
-    #     return VG_100K_2_path
     img_path = os.path.join('images', str(img_id) + ".jpg")
     if os.path.exists(img_path):
         return img_path
@@ -123,10 +117,3 @@ def demo_by_img_id(target_img_id, caption_list):
             return i
     
     return -1
-
-if __name__ == "__main__":
-    img_id = 2403500
-    base_dir = "/Users/xinyichen/Desktop/Thesis/Dataset_Construction/"
-    print(os.path.join(base_dir, "VG_100K"))
-    # , str(img_id) + ".jpg"))
-    print(get_img_path(img_id))
