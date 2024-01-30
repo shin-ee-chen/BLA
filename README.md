@@ -24,7 +24,7 @@ BLA
 
 ## BLA Benchmark
 
-BLA is a novel, automatically constructed benchmark to evaluate multimodal models on Basic Language Abilities. In the BLA tasks, we explore to what extent the models handle basic linguistic constructions—active-passive voice, coordination, and relative clauses—that even preschool children can typically master. Check out [`bla_benchmark`](bla_benchmark) for the benchmark dataset and demo examples.
+BLA is a novel, automatically constructed benchmark to evaluate multimodal models on Basic Language Abilities. In the BLA tasks, we explore to what extent the models handle basic linguistic constructions—active-passive voice, coordination, and relative clauses—that even preschool children can typically master. The benchmark dataset can be downloaded [here](https://filetransfer.io/data-package/EshyxwpB#link). Check out [`dataset/demo`](dataset/demo) for the benchmark task demo examples.
 
 ## Models
 
