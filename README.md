@@ -1,6 +1,6 @@
 # The BLA Benchmark: Investigating Basic Language Abilities of Multimodal Models
-
-This is the implementation of the approaches described in the paper:
+![diagram](bla_tasks.png)
+Code and data are described in the paper:
 > Xinyi Chen, Raquel Fernández and Sandro Pezzelle. [The BLA Benchmark: Investigating Basic Language Abilities of Pre-Trained Multimodal Models](https://arxiv.org/abs/2310.15061). In the Proceedings of EMNLP 2023 (Singapore, 6-10 December 2023).
 
 We provide the benchmark dataset and code for reproducing our results.
@@ -11,25 +11,20 @@ We provide the benchmark dataset and code for reproducing our results.
 - 09-2021: Added code for `cross-modal ablation` ([Frank and Bugliarello et al., EMNLP 2021](https://arxiv.org/pdf/2109.04448.pdf)) [[Original code](https://github.com/e-bug/cross-modal-ablation)] -->
 
 
-## Repository Structure
+<!-- ## Repository Structure
 ```
 BLA
-├── bla_benchmark
-│   ├── images and text annoations for BLA benchmark
-│   └── example demo for each BLA task
-├── clip
-│    ├──  clip.py
-│    └──     zero-shot evaluation for CLIP
-├── generative_models
-│   └──   zero-shot evaluation and in-context learning for generative models
-└── job_scripts
-    └──  scripts for slurm jobs and hyperparamter configureations
-```
+├── dataset
+│   ├── BLA_benchmark.zip: images and text annoations for BLA benchmark
+│   └── demos for each BLA task
+└──  evaluation_models
+    └──  scripts for zero-shot evaluation and in-context learning 
+``` -->
 
 
 ## BLA Benchmark
 
-BLA is a novel, automatically constructed benchmark to evaluate multimodal models on Basic Language Abilities. In the BLA tasks, we explore to what extent the models handle basic linguistic constructions—active-passive voice, coordination, and relative clauses—that even preschool children can typically master. Check out [`bla_benchmark/README.md`](bla_benchmark/README.md) for more details on how to use the BLA benchmark and demo examples.
+BLA is a novel, automatically constructed benchmark to evaluate multimodal models on Basic Language Abilities. In the BLA tasks, we explore to what extent the models handle basic linguistic constructions—active-passive voice, coordination, and relative clauses—that even preschool children can typically master. Check out [`bla_benchmark`](bla_benchmark) for the benchmark dataset and demo examples.
 
 ## Models
 
@@ -52,9 +47,59 @@ Task configuration files are stored in [config_tasks/](config_tasks). -->
 
 We provide scripts to perform zero-shot evaluation and task-specific learning (i.e. fine-tune or in-context learning). See repo [volta-bla](https://github.com/shin-ee-chen/volta-bla) for how to evaluate and fine-tune ViLBERT and LXMERT. 
 
-Check out [`clip/README.md`](clip/README.md) for zero-shot evaluation on CLIP.
+### I) Install the required dependencies
+In order to run each model on the BLA benchmark, please follow the steps described in the orginial model page to set up the environment. We suggest creating one [Conda](https://docs.conda.io/en/latest/) environment for each model.
 
-Check out [`generative_models/README.md`](generative_models/README.md)  for zero-shot evaluation and in-context learning on generative models (BLIP2, OpenFlamingo, MAGEMA and FROMAGe).
+- [CLIP](https://github.com/openai/CLIP)
+- [LAVIS/projects/blip2](https://github.com/salesforce/LAVIS/tree/7f00a0891b2890843f61c002a8e9532a40343648/projects/blip2)
+- [open_flamingo](https://github.com/mlfoundations/open_flamingo)
+- [magma](https://github.com/Aleph-Alpha/magma)
+- [fromage](https://github.com/kohjingyu/fromage)
+
+
+### II) Run Evaluation/Learning Scripts
+
+#### CLIP
+Run CLIP on BLA Active-Passive task in a zero-shot setting
+
+```
+cd evaluation_models/clip
+
+python test_clip_bla.py --annotation_dir dataset/BLA_Benchmark/annotations --img_dir dataset/BLA_Benchmark/images --phenomenon ap
+ ```
+#### BLIP2
+Run BLIP2 on BLA Active-Passive task in a zero-shot setting
+```
+cd evaluation_models/blip2
+
+python test_blip2_bla.py --annotation_dir dataset/BLA_Benchmark/annotations --img_dir dataset/BLA_Benchmark/images --phenomenon ap -dataset_type whole
+ ```
+ 
+Run BLIP2 on BLA Active-Passive task using in-context learning
+```
+cd evaluation_models/blip2
+
+python test_blip2_bla.py --annotation_dir dataset/BLA_Benchmark/annotations --img_dir dataset/BLA_Benchmark/images --phenomenon ap -dataset_type test --in_context_learning
+ ```
+
+Run BLIP2 on BLA Coordination task using in-context learning with cross dataset examples from Relative Clause
+```
+cd evaluation_models/blip2
+
+python test_blip2_bla.py --annotation_dir dataset/BLA_Benchmark/annotations --img_dir dataset/BLA_Benchmark/images --phenomenon co -dataset_type test --in_context_learning --cross_dataset_example --example_task rc
+ ```
+
+#### OpenFlamingo
+Run OpenFlamingo on BLA Active-Passive task in a zero-shot setting
+```
+cd evaluation_models/openflamingo
+
+python test_oflamingo_bla.py --annotation_dir dataset/BLA_Benchmark/annotations --img_dir dataset/BLA_Benchmark/images --phenomenon ap -dataset_type whole
+ ```
+
+### Other models
+Check out [test_fromage_bla.py](evaluation_models/fromage/test_fromage_bla.py) and [test_magma_bla.py](evaluation_models/magma/test_magma_bla.py) for example codes to run fromage and magma.
+
 
 
 ## License
@@ -63,23 +108,14 @@ This work is licensed under the MIT license. See [`LICENSE`](LICENSE) for detail
 Third-party software and data sets are subject to their respective licenses. <br>
 If you find our code/data/models or ideas useful in your research, please consider citing the paper:
 ```
-@misc{chen2023bla,
-      author={Xinyi Chen and Raquel Fernández and Sandro Pezzelle},
-      title="{The BLA Benchmark: Investigating Basic Language Abilities of Pre-Trained Multimodal Models}", 
-      year={2023},
-      eprint={2310.15061},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{chen2023bla,
+  title={The BLA Benchmark: Investigating Basic Language Abilities of Pre-Trained Multimodal Models},
+  author={Chen, Xinyi and Fern{\'a}ndez, Raquel and Pezzelle, Sandro},
+  booktitle={Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing},
+  pages={5817--5830},
+  year={2023}
 }
 ```
 
-
-## Acknowledgement
-
-Our codebase heavily relies on these excellent repositories:
-- [volta](https://github.com/e-bug/volta)
-- [CLIP](https://github.com/openai/CLIP)
-- [LAVIS/projects/blip2](https://github.com/salesforce/LAVIS/tree/7f00a0891b2890843f61c002a8e9532a40343648/projects/blip2)
-- [open_flamingo](https://github.com/mlfoundations/open_flamingo)
-- [magma](https://github.com/Aleph-Alpha/magma)
-- [fromage](https://github.com/kohjingyu/fromage)
+## Contact
+For questions, comments, or concerns, reach out to: **x dot chen2 at uva dot nl**
