@@ -1,4 +1,4 @@
-# The BLA Benchmark: Investigating Basic Language Abilities of Multimodal Models
+# BLA
 ![diagram](bla_tasks.png)
 Code and data are described in the paper:
 > Xinyi Chen, Raquel Fernández and Sandro Pezzelle. [The BLA Benchmark: Investigating Basic Language Abilities of Pre-Trained Multimodal Models](https://arxiv.org/abs/2310.15061). In the Proceedings of EMNLP 2023 (Singapore, 6-10 December 2023).
